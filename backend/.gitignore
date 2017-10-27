@@ -1,0 +1,10 @@
+## General
+
+#compiled python files
+*.pyc
+
+# Pycharm generated
+.idea/workspace.xml
+
+# trained models
+*.model
