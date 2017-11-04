@@ -8,3 +8,6 @@
 
 # trained models
 *.model
+
+# Data
+data/

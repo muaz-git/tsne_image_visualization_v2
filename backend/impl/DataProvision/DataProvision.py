@@ -1,6 +1,6 @@
 
 
-class DataProvider:
+class ImagePatchProvider:
 
     def __init__(self, image_folder):
         self.image_folder = image_folder
