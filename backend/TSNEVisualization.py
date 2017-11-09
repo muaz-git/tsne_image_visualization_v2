@@ -1,8 +1,10 @@
-import impl.DataProvision.ImageNet.ImageNetDataProvider
+import impl.DataProvision.DataProvision
 import json
 import impl.NeuralNetworking
 import impl.DimensionalityReduction
 import numpy as np
+from .impl.deep-image-clustering.model.util import create_model
+from .impl.deep-image-clustering.model.model import Backend, CNN
 
 if __name__ == "__main__":
 
@@ -11,7 +13,7 @@ if __name__ == "__main__":
     layer_name = "fc8"
 
     # create DataProvider
-    img_net_dp = impl.DataProvision.ImageNet.ImageNetDataProvider.ImageNetImagePatchProvider(image_folder)
+    img_net_dp = impl.DataProvision.DataProvision.ImageNetImagePatchProvider(image_folder)
 
     # load image data
     pil_images = img_net_dp.get_pil_images()
@@ -20,6 +22,8 @@ if __name__ == "__main__":
     # process features
     cnn = impl.NeuralNetworking.create_neural_net(network_name, False)
     features = []
+
+    model = create_model(Backend.CAFFE, CNN.GOOGLENET)
 
     for index, image in enumerate(pil_images):
         print("Processing image {}/{}".format(index, len(pil_images)))
