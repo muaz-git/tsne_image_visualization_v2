@@ -8,6 +8,8 @@ public class ImageManager : MonoBehaviour {
 
 	public float scaleFactor = 0.2f;
 
+	public bool busy = false;
+
 	public string jsonFile = @"C:\Users\HP Sprout\Documents\Git Repositories\tsne_image_visualization\backend\data.json";
 	public string imageFolder = @"C:\Users\HP Sprout\Documents\Git Repositories\tsne_image_visualization\backend\data\ImageNet";
 
@@ -18,17 +20,47 @@ public class ImageManager : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-		loadData(this.imageFolder, this.jsonFile);
+		StartCoroutine(loadData(this.imageFolder, this.jsonFile));
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		
+		if (Input.GetKey(KeyCode.R))
+		{
+			StartCoroutine(ReloadAll());
+		}
+	}
+
+	public IEnumerator ReloadAll()
+	{
+		if (this.busy)
+		{
+			yield break;
+		}
+
+		this.busy = true;
+
+		for (int i = 0; i < this.transform.childCount; i++)
+		{
+			Destroy(this.transform.GetChild(0).gameObject);
+			yield return null;
+		}
+		this.busy = false;
+		Debug.Log("Removed All images");
+
+		StartCoroutine(loadData(this.imageFolder, this.jsonFile));
 	}
 
 
-	public void loadData(string imageFolder, string coordFile)
+	public IEnumerator loadData(string imageFolder, string coordFile)
 	{
+		if (this.busy)
+		{
+			yield break;
+		}
+
+		this.busy = true;
+
 		// load coordinates
 		string dataAsJson = File.ReadAllText(coordFile);
 
@@ -38,7 +70,7 @@ public class ImageManager : MonoBehaviour {
 		{
 			var coordinates = N[key];
 
-			Debug.Log(key + " - x:" + coordinates[0] + " y:" + coordinates[1] + " z:" + coordinates[2]);
+			// Debug.Log(key + " - x:" + coordinates[0] + " y:" + coordinates[1] + " z:" + coordinates[2]);
 
 			Vector3 pos = new Vector3(coordinates[0], coordinates[1], coordinates[2]);
 			pos.Scale(new Vector3(this.scaleFactor, this.scaleFactor, this.scaleFactor));
@@ -54,7 +86,10 @@ public class ImageManager : MonoBehaviour {
 			string imagePath = this.imageFolder + "\\" + key;
             controller.loadImage(imagePath);
 
-        }
+			yield return null;
+		}
+
+		this.busy = false;
 
 	}
 }

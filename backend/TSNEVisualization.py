@@ -3,8 +3,8 @@ import json
 import impl.NeuralNetworking
 import impl.DimensionalityReduction
 import numpy as np
-from .impl.deep-image-clustering.model.util import create_model
-from .impl.deep-image-clustering.model.model import Backend, CNN
+# from .impl.deep-image-clustering.model.util import create_model
+# from .impl.deep-image-clustering.model.model import Backend, CNN
 
 if __name__ == "__main__":
 
@@ -23,7 +23,7 @@ if __name__ == "__main__":
     cnn = impl.NeuralNetworking.create_neural_net(network_name, False)
     features = []
 
-    model = create_model(Backend.CAFFE, CNN.GOOGLENET)
+    # model = create_model(Backend.CAFFE, CNN.GOOGLENET)
 
     for index, image in enumerate(pil_images):
         print("Processing image {}/{}".format(index, len(pil_images)))
@@ -34,8 +34,11 @@ if __name__ == "__main__":
     print(np.array(features).shape)
 
     # reduce dimensionality
-    dim_reducer = impl.DimensionalityReduction.TSNEReducer(3)
-    image_coords = dim_reducer.reduce_dimensions(features)
+    pca_dim_reducer = impl.DimensionalityReduction.PCAReducer(50)
+    tsne_dim_reducer = impl.DimensionalityReduction.TSNEReducer(3)
+
+    pca_reduced = pca_dim_reducer.reduce_dimensions(features)
+    image_coords = tsne_dim_reducer.reduce_dimensions(pca_reduced)
 
     # save data
     image_paths = img_net_dp.load_image_paths()
