@@ -5,6 +5,7 @@ import impl.DimensionalityReduction
 import numpy as np
 # from .impl.deep-image-clustering.model.util import create_model
 # from .impl.deep-image-clustering.model.model import Backend, CNN
+from impl.DataManagement import *
 
 if __name__ == "__main__":
 
@@ -14,6 +15,9 @@ if __name__ == "__main__":
 
     # create DataProvider
     img_net_dp = impl.DataProvision.DataProvision.ImageNetImagePatchProvider(image_folder)
+
+    # create DataManager
+    data_man = DataManager()
 
     # load image data
     pil_images = img_net_dp.get_pil_images()
@@ -25,13 +29,13 @@ if __name__ == "__main__":
 
     # model = create_model(Backend.CAFFE, CNN.GOOGLENET)
 
+    print("")
     for index, image in enumerate(pil_images):
-        print("Processing image {}/{}".format(index, len(pil_images)))
+        print("\rProcessing image {}/{}".format(index + 1, len(pil_images)), end='')
         cnn.process_image(image)
         features.append(cnn.get_tensor(layer_name))
 
     print("Processed Features")
-    print(np.array(features).shape)
 
     # reduce dimensionality
     pca_dim_reducer = impl.DimensionalityReduction.PCAReducer(50)
@@ -45,10 +49,12 @@ if __name__ == "__main__":
     result_data = {}
 
     for i in range(len(image_paths)):
-        result_data[image_paths[i]] = image_coords[i].tolist()
 
-    with open("data.json", 'w') as outfile:
-        json.dump(result_data, outfile, indent=4)
+        # create new sample object
+        coords = Coordinate(image_coords[i][0], image_coords[i][1], image_coords[i][2])
+        sample = SampleData(image_paths[i], coords)
 
-    print("Saved Data")
+        data_man.update_data(sample)
+
+    data_man.save_data("data.json")
     print("Done")

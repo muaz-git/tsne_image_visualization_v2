@@ -68,11 +68,9 @@ public class ImageManager : MonoBehaviour {
 
 		foreach (var key in N.Keys)
 		{
-			var coordinates = N[key];
+			var coordinates = N[key]["coordinates"];
 
-			// Debug.Log(key + " - x:" + coordinates[0] + " y:" + coordinates[1] + " z:" + coordinates[2]);
-
-			Vector3 pos = new Vector3(coordinates[0], coordinates[1], coordinates[2]);
+			Vector3 pos = new Vector3(coordinates["x"], coordinates["y"], coordinates["z"]);
 			pos.Scale(new Vector3(this.scaleFactor, this.scaleFactor, this.scaleFactor));
 
 			//set position
