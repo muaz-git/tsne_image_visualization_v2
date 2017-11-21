@@ -3,7 +3,7 @@ import os
 from random import randrange
 
 
-class ImagePatchProvider:
+class ImageProvider:
 
     def __init__(self, image_folder):
         self.image_folder = image_folder
@@ -25,10 +25,10 @@ class ImagePatchProvider:
         raise StopIteration()
 
 
-class ImageNetImagePatchProvider(ImagePatchProvider):
+class ImageNetImageProvider(ImageProvider):
 
     def __init__(self, image_folder):
-        ImagePatchProvider.__init__(self, image_folder)
+        ImageProvider.__init__(self, image_folder)
 
         self.image_file_names = self.load_image_paths()
         self.iter_index = 0

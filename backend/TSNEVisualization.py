@@ -14,7 +14,7 @@ if __name__ == "__main__":
     layer_name = "fc8"
 
     # create DataProvider
-    img_net_dp = impl.DataProvision.DataProvision.ImageNetImagePatchProvider(image_folder)
+    img_net_dp = impl.DataProvision.DataProvision.ImageNetImageProvider(image_folder)
 
     # create DataManager
     data_man = DataManager()
@@ -52,7 +52,7 @@ if __name__ == "__main__":
 
         # create new sample object
         coords = Coordinate(image_coords[i][0], image_coords[i][1], image_coords[i][2])
-        sample = SampleData(image_paths[i], coords)
+        sample = DataSample(image_paths[i], [coords])
 
         data_man.update_data(sample)
 
