@@ -4,25 +4,50 @@ import copy
 
 
 class DataManager:
+    """
+    Class managing image data, clusters, user interactions and croppings of an image dataset
+    """
 
     def __init__(self):
         self.image_data = {}
 
     def load_data(self, filename):
+        """
+        Loads data from an existing json file
+        :param filename: name of the json file
+        """
         self.image_data = json.loads(filename)
         print("Loaded data from {}".format(filename))
 
+    def load_patches(self, patch_provider):
+        samples = patch_provider.get_samples()
+        for sample in samples:
+            self.update_data(sample)
+
     def save_data(self, filename):
+        """
+        Serialize current state of data to a json file
+        :param filename: filename where data is saved to
+        """
         with open(filename, 'w') as outfile:
             json.dump(self.image_data, outfile, indent=4, sort_keys=True)
 
         print("Saved data to {}".format(filename))
 
     def update_data(self, data_sample):
+        """
+        Updates the current data by adding or replacing the values of a data sample
+        :param data_sample: Data sample which should be updated/added to the data
+        """
         self.image_data.update(data_sample.to_json())
 
 
 class DataSample:
+    """
+    Instance of data for a single image. One image can contain several croppings while for each cropping the TSNE
+    coordinates, the cluster where the cropping is currently related to, the cluster the user set the cropping to,
+    the model which computed a the features that lead to the TSNE coordinates.
+    """
 
     def __init__(self, filename, coordinates, croppings=None, cur_cluster_ids=None, user_cluster_ids=None, model_ids=None):
 
@@ -78,6 +103,10 @@ class DataSample:
             self.croppings = croppings
 
     def to_json(self):
+        """
+        Creates a json serializable dictionary which will be used for saving and serializing the data
+        :return: dictionary containing all data of this sample
+        """
 
         new_dict = {}
         new_dict[self.filename] = {}
@@ -105,9 +134,21 @@ class DataSample:
         return new_dict#
 
     def count(self):
+        """
+        Returns the amount of croppings in this sample
+        :return: amount of croppings
+        """
         return len(self.coordinates)
 
     def add(self, coordinates, cropping, cluster_id, user_cluster_id, model_id):
+        """
+        Adds a cropping with its corresponding values to the sample
+        :param coordinates: TSNE corrdinates of the cropping
+        :param cropping: the cropping properties
+        :param cluster_id: ID of the current cluster of this cropping
+        :param user_cluster_id: ID of the user cluster of this cropping
+        :param model_id: ID of the model which computed the TSNE coordinate features
+        """
         self.coordinates.append(coordinates)
         self.croppings.append(cropping)
         self.cur_cluster_ids.append(cluster_id)
@@ -115,6 +156,9 @@ class DataSample:
         self.model_ids.append(model_id)
 
     def remove(self, index):
+        """
+        Removes a cropping instance from this sample
+        """
 
         if index < 0 or index >= self.count():
             print("Index {} is out of bounds for a sample of size {}".format(index, self.count()))
@@ -128,11 +172,19 @@ class DataSample:
 
     @staticmethod
     def create_empty(filename):
+        """
+        Creates a data sample of an image containing no croppings
+        :param filename: filename of the image
+        :return: Empty data sample
+        """
         sample = DataSample(filename, [], [], [], [], [])
         return sample
 
 
 class Coordinate:
+    """
+    Representation of a 3D coordinate vector
+    """
 
     def __init__(self, x, y, z):
         self.x, self.y, self.z = float(x), float(y), float(z)
@@ -142,6 +194,9 @@ class Coordinate:
 
 
 class Cropping:
+    """
+    Representation of an image cropping
+    """
 
     def __init__(self, x, y, width, height):
         self.x = x

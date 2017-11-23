@@ -1,4 +1,4 @@
-import impl.DataProvision.DataProvision
+import impl.DataProvision.ImageProvision
 import json
 import impl.NeuralNetworking
 import impl.DimensionalityReduction
@@ -14,7 +14,7 @@ if __name__ == "__main__":
     layer_name = "fc8"
 
     # create DataProvider
-    img_net_dp = impl.DataProvision.DataProvision.ImageNetImageProvider(image_folder)
+    img_net_dp = impl.DataProvision.ImageProvision.ImageNetImageProvider(image_folder)
 
     # create DataManager
     data_man = DataManager()

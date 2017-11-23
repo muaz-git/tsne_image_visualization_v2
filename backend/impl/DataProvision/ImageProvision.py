@@ -9,6 +9,9 @@ class ImageProvider:
         self.image_folder = image_folder
         pass
 
+    def load_image_paths(self):
+        pass
+
     def get_single_pil_image(self, image_file):
         pass
 
@@ -74,8 +77,9 @@ class ImageNetImageProvider(ImageProvider):
 
     def next(self):
         if self.iter_index < len(self.image_file_names):
-            image = self.get_single_pil_image(self.image_file_names[self.iter_index])
+            file_name = self.image_file_names[self.iter_index]
+            image = self.get_single_pil_image(file_name)
             self.iter_index += 1
-            return image
+            return file_name, image
         else:
             raise StopIteration()

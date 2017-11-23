@@ -2,6 +2,7 @@ import impl.wincaffe.image
 from impl.wincaffe.model import *
 import skimage.io
 from impl.wincaffe.utils import *
+from time import gmtime, strftime
 
 
 
@@ -73,6 +74,11 @@ class NeuralNet:
 
     def check_layer_name(self, layer_name):
         return layer_name in self.get_layer_names()
+
+    def generate_id(self, layer):
+        time_stamp = strftime("%d_%m_%Y_%H%M%S", gmtime())
+        id_string = "{}_{}_{}".format(str(self), layer, time_stamp)
+        return id_string
 
 
 class AlexNet(NeuralNet):
