@@ -11,6 +11,9 @@ class DimReducer:
     def reduce_dimensions(self, x):
         pass
 
+    def __str__(self):
+        return "UnspecifiedDimReducer"
+
 
 class TSNEReducer(DimReducer):
 
@@ -24,6 +27,9 @@ class TSNEReducer(DimReducer):
 
         return data_embedded
 
+    def __str__(self):
+        return "TSNE"
+
 
 class PCAReducer(DimReducer):
 
@@ -35,3 +41,6 @@ class PCAReducer(DimReducer):
         data_embedded = PCA(n_components=self.dim_count).fit_transform(data)
 
         return data_embedded
+
+    def __str__(self):
+        return "PCA"

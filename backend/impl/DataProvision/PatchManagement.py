@@ -37,10 +37,12 @@ class ImagePatchProvider:
         index = 0
 
         for file_name in self.patches:
+
             sample_count = len(self.patches[file_name]["pils"])
 
+            self.patches[file_name]["features"] = []
             for i in range(sample_count):
-                self.patches[file_name]["pils"][i] = new_features[index]
+                self.patches[file_name]["features"].append(new_features[index])
                 index += 1
 
     def __get_patch_features(self):
@@ -52,26 +54,35 @@ class ImagePatchProvider:
         return features
 
     def __extract_patches(self):
+        counter = 1
+        print("Extracting patches...")
 
         # create croppings
         for file_name, pil_image in self.image_provider:
-            cropped_images, croppings = self.patch_extractor.extract(pil_image)
+            cropped_images, croppings = self.patch_extractor.extract(pil_image, file_name)
 
-            self.patches[file_name] = {"pils": cropped_images, "corps": croppings, "features": []}
+            self.patches[file_name] = {"pils": cropped_images, "crops": croppings, "features": []}
+            print("Extracted {} patchs from image {}/{}".format(len(cropped_images), counter, len(self.image_provider)))
+            counter += 1
 
     def __process_patch_features(self):
-
+        print("Processing Features...")
         features = []
 
         # TODO: Can be improved when increasing batch size
-        for image in self.__get_patch_images():
+        patches = self.__get_patch_images()
+
+        for i, image in enumerate(patches):
             self.cnn.process_image(image)
             features.append(self.cnn.get_tensor(self.layer))
+
+            print("Processed {}/{} patches".format(i+1, len(patches)))
 
         self.__set_features(features)
 
     def __reduce_dimensionality(self):
 
+        print("Reducing Dimensionalities")
         reduced_features = self.__get_patch_features()
 
         # reduce features with each reducer
@@ -95,7 +106,7 @@ class ImagePatchProvider:
                 coords = impl.DataManagement.Coordinate(x, y, z)
                 coord_list.append(coords)
 
-            image_sample = impl.DataManagement.DataSample(image_name, coord_list, self.patches[image_name]["crops"], -1, -1, self.cnn.generate_id(self.layer))
+            image_sample = impl.DataManagement.DataSample(image_name, coord_list, self.patches[image_name]["crops"], None, None, self.cnn.generate_id(self.layer))
             samples.append(image_sample)
 
         return samples

@@ -7,32 +7,6 @@ class ImageProvider:
 
     def __init__(self, image_folder):
         self.image_folder = image_folder
-        pass
-
-    def load_image_paths(self):
-        pass
-
-    def get_single_pil_image(self, image_file):
-        pass
-
-    def get_pil_images(self, image_files):
-        pass
-
-    def get_random_pil_images(self, amount):
-        pass
-
-    def __iter__(self):
-        return self
-
-    def next(self):
-        raise StopIteration()
-
-
-class ImageNetImageProvider(ImageProvider):
-
-    def __init__(self, image_folder):
-        ImageProvider.__init__(self, image_folder)
-
         self.image_file_names = self.load_image_paths()
         self.iter_index = 0
 
@@ -41,13 +15,16 @@ class ImageNetImageProvider(ImageProvider):
         for root, dirs, files in os.walk(self.image_folder):
             for path in files:
                 if path.endswith(".jpg") or path.endswith(".JPEG"):
-                    image_paths.append(path)
+
+                    root_name = root.replace("\\", "/")
+                    image_paths.append(root_name + "/" + path)
 
         image_paths.sort()
         return image_paths
 
-    def get_single_pil_image(self, image_file):
-        image_file_path = self.image_folder + "/" + image_file
+    @staticmethod
+    def get_single_pil_image(image_file):
+        image_file_path = image_file
 
         im = Image.open(image_file_path)
         return im
@@ -75,6 +52,9 @@ class ImageNetImageProvider(ImageProvider):
 
         return self.get_pil_images(image_paths)
 
+    def __iter__(self):
+        return self
+
     def next(self):
         if self.iter_index < len(self.image_file_names):
             file_name = self.image_file_names[self.iter_index]
@@ -83,3 +63,21 @@ class ImageNetImageProvider(ImageProvider):
             return file_name, image
         else:
             raise StopIteration()
+
+    def __len__(self):
+        return len(self.image_file_names)
+
+
+class ImageNetImageProvider(ImageProvider):
+
+    def __init__(self, image_folder):
+        ImageProvider.__init__(self, image_folder)
+
+        self.image_file_names = self.load_image_paths()
+        self.iter_index = 0
+
+
+class PascalImageProvider(ImageProvider):
+
+    def __init__(self, image_folder):
+        ImageProvider.__init__(self, image_folder)

@@ -11,7 +11,7 @@ public class ImageManager : MonoBehaviour {
 	public bool busy = false;
 
 	public string jsonFile = @"C:\Users\HP Sprout\Documents\Git Repositories\tsne_image_visualization\backend\data.json";
-	public string imageFolder = @"C:\Users\HP Sprout\Documents\Git Repositories\tsne_image_visualization\backend\data\ImageNet";
+	public string imageFolder = @"C:\Users\HP Sprout\Documents\Git Repositories\tsne_image_visualization\backend\";
 
 	public GameObject ImageDisplayPrefab;
 
@@ -20,7 +20,7 @@ public class ImageManager : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-		StartCoroutine(loadData(this.imageFolder, this.jsonFile));
+		StartCoroutine(loadData(this.jsonFile));
 	}
 	
 	// Update is called once per frame
@@ -48,11 +48,11 @@ public class ImageManager : MonoBehaviour {
 		this.busy = false;
 		Debug.Log("Removed All images");
 
-		StartCoroutine(loadData(this.imageFolder, this.jsonFile));
+		StartCoroutine(loadData(this.jsonFile));
 	}
 
 
-	public IEnumerator loadData(string imageFolder, string coordFile)
+	public IEnumerator loadData(string coordFile)
 	{
 		if (this.busy)
 		{
@@ -70,19 +70,31 @@ public class ImageManager : MonoBehaviour {
 		{
 			var coordinates = N[key]["coordinates"];
 
-			Vector3 pos = new Vector3(coordinates["x"], coordinates["y"], coordinates["z"]);
-			pos.Scale(new Vector3(this.scaleFactor, this.scaleFactor, this.scaleFactor));
+			for (int i = 0; i < coordinates.Count; i++)
+			{
+				Vector3 pos = new Vector3(coordinates[i]["x"], coordinates[i]["y"], coordinates[i]["z"]);
+				pos.Scale(new Vector3(this.scaleFactor, this.scaleFactor, this.scaleFactor));
 
-			//set position
-			GameObject imageInstance = Instantiate(ImageDisplayPrefab, pos, Quaternion.identity);
+				//set position
+				GameObject imageInstance = Instantiate(ImageDisplayPrefab, pos, Quaternion.identity);
 
-			imageInstance.transform.SetParent(this.transform);
-			imageInstance.transform.SetPositionAndRotation(pos, Quaternion.identity);
+				imageInstance.transform.SetParent(this.transform);
+				imageInstance.transform.SetPositionAndRotation(pos, Quaternion.identity);
 
-			ImageDisplayController controller = imageInstance.GetComponent<ImageDisplayController>();
+				ImageDisplayController controller = imageInstance.GetComponent<ImageDisplayController>();
 
-			string imagePath = this.imageFolder + "\\" + key;
-            controller.loadImage(imagePath);
+				string imagePath = this.imageFolder + key;
+
+				int cropping_x = N[key]["croppings"][i]["x"].AsInt;
+				int cropping_y = N[key]["croppings"][i]["y"].AsInt;
+				int cropping_width = N[key]["croppings"][i]["width"].AsInt;
+				int cropping_height = N[key]["croppings"][i]["height"].AsInt;
+
+				controller.loadImage(imagePath, cropping_x, cropping_y, cropping_width, cropping_height);
+				//controller.loadImage(imagePath);
+
+				yield return null;
+			}
 
 			yield return null;
 		}

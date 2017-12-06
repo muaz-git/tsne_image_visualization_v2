@@ -49,7 +49,7 @@ class DataSample:
     the model which computed a the features that lead to the TSNE coordinates.
     """
 
-    def __init__(self, filename, coordinates, croppings=None, cur_cluster_ids=None, user_cluster_ids=None, model_ids=None):
+    def __init__(self, filename, coordinates, croppings=None, cur_cluster_ids=None, user_cluster_ids=None, model_id=None):
 
         self.filename = filename
         self.coordinates = coordinates
@@ -79,15 +79,13 @@ class DataSample:
             self.user_cluster_ids = user_cluster_ids
 
         # Model ID Checks
-        if model_ids is None:
+        if model_id is None:
             self.model_ids = (np.ones(sample_count) * -1).tolist()
 
-        elif len(model_ids) != sample_count:
-            print("The amount of Model IDs has to be the same like the amount of given coordinates!")
-            print("Coordinate counts: {} Model ID counts: {}".format(sample_count, len(model_ids)))
-            assert False
         else:
-            self.model_ids = model_ids
+            self.model_ids = []
+            for i in range(sample_count):
+                self.model_ids.append(model_id)
 
         # Cropping Checks
         if croppings is None:
@@ -177,7 +175,7 @@ class DataSample:
         :param filename: filename of the image
         :return: Empty data sample
         """
-        sample = DataSample(filename, [], [], [], [], [])
+        sample = DataSample(filename, [], [], [], [], "")
         return sample
 
 

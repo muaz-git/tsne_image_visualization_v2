@@ -1,0 +1,7104 @@
+{
+    "data/ImageNet/images/n00141669/n00141669_1075.JPEG": {
+        "coordinates": [
+            {
+                "x": 4.543238724585354, 
+                "y": -20.101639488261554, 
+                "z": -32.19902073529583
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 91, 
+                "width": 499, 
+                "x": 0, 
+                "y": 231
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_119.JPEG": {
+        "coordinates": [
+            {
+                "x": -18.011416473700784, 
+                "y": -9.551490616907996, 
+                "z": 14.586046148632366
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 136, 
+                "width": 188, 
+                "x": 1, 
+                "y": 149
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_1264.JPEG": {
+        "coordinates": [
+            {
+                "x": 22.245919767637407, 
+                "y": 0.3126712796220945, 
+                "z": -4.907859026632548
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 131, 
+                "width": 332, 
+                "x": 0, 
+                "y": 227
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_1369.JPEG": {
+        "coordinates": [
+            {
+                "x": 9.891258191299283, 
+                "y": -17.113887280573564, 
+                "z": 4.845477890311099
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 182, 
+                "width": 205, 
+                "x": 95, 
+                "y": 150
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_14.JPEG": {
+        "coordinates": [
+            {
+                "x": 2.5028281274891984, 
+                "y": -11.452809669043999, 
+                "z": 9.786227726708882
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 30, 
+                "width": 226, 
+                "x": 0, 
+                "y": 250
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_1483.JPEG": {
+        "coordinates": [
+            {
+                "x": 19.374940551714587, 
+                "y": -7.318309132319973, 
+                "z": 19.34594558998862
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 15, 
+                "width": 35, 
+                "x": 442, 
+                "y": 176
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_1509.JPEG": {
+        "coordinates": [
+            {
+                "x": 19.338937616785792, 
+                "y": -5.3691392470756005, 
+                "z": -0.4650765825267746
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 150, 
+                "width": 382, 
+                "x": 47, 
+                "y": 183
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_1611.JPEG": {
+        "coordinates": [
+            {
+                "x": 0.5326487728146237, 
+                "y": -15.744803247648145, 
+                "z": -1.249504874956965
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 93, 
+                "width": 217, 
+                "x": 173, 
+                "y": 239
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_1657.JPEG": {
+        "coordinates": [
+            {
+                "x": 4.5954189759009605, 
+                "y": -13.313488274422348, 
+                "z": 1.6708915672784326
+            }, 
+            {
+                "x": 5.124917910726339, 
+                "y": -17.542545348478676, 
+                "z": 0.2211193378293187
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 139, 
+                "width": 499, 
+                "x": 0, 
+                "y": 229
+            }, 
+            {
+                "height": 149, 
+                "width": 457, 
+                "x": 23, 
+                "y": 217
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_1711.JPEG": {
+        "coordinates": [
+            {
+                "x": 17.70817499847122, 
+                "y": 0.819975945972982, 
+                "z": 1.3159491902386435
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 62, 
+                "width": 99, 
+                "x": 309, 
+                "y": 148
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_1719.JPEG": {
+        "coordinates": [
+            {
+                "x": -11.993524897481192, 
+                "y": 27.242761769538188, 
+                "z": 2.7587099301591858
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 195, 
+                "width": 182, 
+                "x": 164, 
+                "y": 212
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_174.JPEG": {
+        "coordinates": [
+            {
+                "x": -11.350091410754167, 
+                "y": 9.165714567861166, 
+                "z": -15.898758774689313
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 29, 
+                "width": 27, 
+                "x": 405, 
+                "y": 166
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_1810.JPEG": {
+        "coordinates": [
+            {
+                "x": -16.533437566355026, 
+                "y": -5.089152109111151, 
+                "z": 1.5018356978888576
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 51, 
+                "width": 45, 
+                "x": 454, 
+                "y": 186
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_1824.JPEG": {
+        "coordinates": [
+            {
+                "x": 12.2574381323804, 
+                "y": -11.313376295483456, 
+                "z": -10.222943633335248
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 165, 
+                "width": 241, 
+                "x": 104, 
+                "y": 112
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_1864.JPEG": {
+        "coordinates": [
+            {
+                "x": 13.605724799313531, 
+                "y": -16.439059575290955, 
+                "z": 11.770209687948824
+            }, 
+            {
+                "x": 5.188314989412785, 
+                "y": -9.833546844703227, 
+                "z": -28.38255184705503
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 114, 
+                "width": 154, 
+                "x": 164, 
+                "y": 220
+            }, 
+            {
+                "height": 121, 
+                "width": 166, 
+                "x": 162, 
+                "y": 211
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_1878.JPEG": {
+        "coordinates": [
+            {
+                "x": -18.46024450855032, 
+                "y": -5.5648800186269956, 
+                "z": 11.76211512654261
+            }, 
+            {
+                "x": -9.823518956033565, 
+                "y": -9.457096166064252, 
+                "z": 12.871091502194774
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 62, 
+                "width": 195, 
+                "x": 18, 
+                "y": 199
+            }, 
+            {
+                "height": 67, 
+                "width": 246, 
+                "x": 239, 
+                "y": 212
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_191.JPEG": {
+        "coordinates": [
+            {
+                "x": -27.453344838307096, 
+                "y": -8.597134594735406, 
+                "z": 8.918003820267186
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 126, 
+                "width": 264, 
+                "x": 1, 
+                "y": 248
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_1914.JPEG": {
+        "coordinates": [
+            {
+                "x": -6.211367088241804, 
+                "y": -7.718441921253369, 
+                "z": 16.870467181547408
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 121, 
+                "width": 495, 
+                "x": 2, 
+                "y": 253
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_1939.JPEG": {
+        "coordinates": [
+            {
+                "x": -5.843840592635917, 
+                "y": -7.684554166479794, 
+                "z": -30.144388795068227
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 154, 
+                "width": 382, 
+                "x": 16, 
+                "y": 176
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_2127.JPEG": {
+        "coordinates": [
+            {
+                "x": 2.9877106189080678, 
+                "y": 5.055137330754045, 
+                "z": 20.461492852161367
+            }, 
+            {
+                "x": -6.093525060827901, 
+                "y": -8.69472442380507, 
+                "z": 1.7560626497288794
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 68, 
+                "width": 293, 
+                "x": 113, 
+                "y": 263
+            }, 
+            {
+                "height": 128, 
+                "width": 90, 
+                "x": 348, 
+                "y": 204
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_2261.JPEG": {
+        "coordinates": [
+            {
+                "x": 13.789577731502362, 
+                "y": -1.1767416171204943, 
+                "z": 1.9925793339179043
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 94, 
+                "width": 105, 
+                "x": 247, 
+                "y": 218
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_2345.JPEG": {
+        "coordinates": [
+            {
+                "x": -3.901537901025271, 
+                "y": -21.331254677169476, 
+                "z": 7.2322734455734095
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 167, 
+                "width": 257, 
+                "x": 75, 
+                "y": 265
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_2364.JPEG": {
+        "coordinates": [
+            {
+                "x": 18.19309940187338, 
+                "y": 13.971820934834545, 
+                "z": -2.6277053855111197
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 108, 
+                "width": 412, 
+                "x": 87, 
+                "y": 224
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_2416.JPEG": {
+        "coordinates": [
+            {
+                "x": -6.822830608315252, 
+                "y": -22.195056079887603, 
+                "z": -9.39618179887023
+            }, 
+            {
+                "x": -3.3283133090245927, 
+                "y": -14.148204946801481, 
+                "z": 4.721963717164366
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 91, 
+                "width": 153, 
+                "x": 80, 
+                "y": 163
+            }, 
+            {
+                "height": 68, 
+                "width": 154, 
+                "x": 83, 
+                "y": 179
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_2427.JPEG": {
+        "coordinates": [
+            {
+                "x": 20.62852192790331, 
+                "y": -17.304646958435278, 
+                "z": 7.492655688297541
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 143, 
+                "width": 154, 
+                "x": 345, 
+                "y": 190
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_2439.JPEG": {
+        "coordinates": [
+            {
+                "x": 7.064078548984293, 
+                "y": -3.4924626248456176, 
+                "z": 15.795719054889162
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 197, 
+                "width": 247, 
+                "x": 181, 
+                "y": 174
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_2462.JPEG": {
+        "coordinates": [
+            {
+                "x": 18.496313996143453, 
+                "y": 14.100678292289311, 
+                "z": 25.064289944010074
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 133, 
+                "width": 221, 
+                "x": 110, 
+                "y": 365
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_2549.JPEG": {
+        "coordinates": [
+            {
+                "x": -4.305398685564019, 
+                "y": -3.0355744887121983, 
+                "z": 25.92888470659317
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 126, 
+                "width": 72, 
+                "x": 183, 
+                "y": 146
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_2564.JPEG": {
+        "coordinates": [
+            {
+                "x": -22.41089736956872, 
+                "y": -4.979193865447709, 
+                "z": 7.394025948342851
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 44, 
+                "width": 270, 
+                "x": 229, 
+                "y": 289
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_2602.JPEG": {
+        "coordinates": [
+            {
+                "x": 13.83384073852257, 
+                "y": -3.285025313312566, 
+                "z": 22.606246295280364
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 195, 
+                "width": 499, 
+                "x": 0, 
+                "y": 179
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_2664.JPEG": {
+        "coordinates": [
+            {
+                "x": 4.747523191788667, 
+                "y": -9.188319725752875, 
+                "z": 15.532958146655773
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 134, 
+                "width": 295, 
+                "x": 0, 
+                "y": 198
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_27.JPEG": {
+        "coordinates": [
+            {
+                "x": -9.598889823598025, 
+                "y": 14.506759838451174, 
+                "z": 20.193699219461518
+            }, 
+            {
+                "x": -6.003233354875951, 
+                "y": 5.213646838891219, 
+                "z": -15.186644939044536
+            }, 
+            {
+                "x": -22.302403804199145, 
+                "y": 3.2589095759189526, 
+                "z": 9.336574769593339
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 49, 
+                "width": 145, 
+                "x": 296, 
+                "y": 325
+            }, 
+            {
+                "height": 31, 
+                "width": 56, 
+                "x": 0, 
+                "y": 343
+            }, 
+            {
+                "height": 110, 
+                "width": 498, 
+                "x": 0, 
+                "y": 264
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_2724.JPEG": {
+        "coordinates": [
+            {
+                "x": 10.632618281168385, 
+                "y": 5.824720493943588, 
+                "z": 18.97026735648603
+            }, 
+            {
+                "x": 8.697244068112697, 
+                "y": 2.5735567966609687, 
+                "z": 15.116243988352718
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 186, 
+                "width": 215, 
+                "x": 157, 
+                "y": 312
+            }, 
+            {
+                "height": 250, 
+                "width": 371, 
+                "x": 1, 
+                "y": 248
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_2805.JPEG": {
+        "coordinates": [
+            {
+                "x": 7.559821830648585, 
+                "y": -5.200235983946008, 
+                "z": 4.52330617107577
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 113, 
+                "width": 248, 
+                "x": 0, 
+                "y": 130
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_2849.JPEG": {
+        "coordinates": [
+            {
+                "x": -3.491164243864787, 
+                "y": 4.6537136630032085, 
+                "z": -28.96563312779776
+            }, 
+            {
+                "x": -5.497823267155798, 
+                "y": -14.923007479033094, 
+                "z": 18.687464032442705
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 82, 
+                "width": 364, 
+                "x": 2, 
+                "y": 291
+            }, 
+            {
+                "height": 96, 
+                "width": 367, 
+                "x": 0, 
+                "y": 278
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_2889.JPEG": {
+        "coordinates": [
+            {
+                "x": 5.059761292575382, 
+                "y": 5.986375036596113, 
+                "z": 12.57774065952612
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 118, 
+                "width": 356, 
+                "x": 100, 
+                "y": 210
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3048.JPEG": {
+        "coordinates": [
+            {
+                "x": -15.455013324530436, 
+                "y": -9.875007152479625, 
+                "z": 3.0247662009064635
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 67, 
+                "width": 56, 
+                "x": 99, 
+                "y": 150
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3074.JPEG": {
+        "coordinates": [
+            {
+                "x": 10.719566018025153, 
+                "y": -10.273670699306281, 
+                "z": 30.03273273260163
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 117, 
+                "width": 244, 
+                "x": 25, 
+                "y": 215
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3080.JPEG": {
+        "coordinates": [
+            {
+                "x": 1.1501651569492084, 
+                "y": -7.494916605609308, 
+                "z": 4.728554639860473
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 241, 
+                "width": 497, 
+                "x": 0, 
+                "y": 125
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3221.JPEG": {
+        "coordinates": [
+            {
+                "x": 1.1211791845656123, 
+                "y": -20.410378730236367, 
+                "z": 4.728465452579219
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 344, 
+                "width": 305, 
+                "x": 0, 
+                "y": 107
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3342.JPEG": {
+        "coordinates": [
+            {
+                "x": 0.7850811121997082, 
+                "y": 46.529114893506915, 
+                "z": 6.833162459117154
+            }, 
+            {
+                "x": 4.674669442515426, 
+                "y": -47.27581431222899, 
+                "z": 10.649071510037478
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 88, 
+                "width": 304, 
+                "x": 33, 
+                "y": 242
+            }, 
+            {
+                "height": 88, 
+                "width": 262, 
+                "x": 41, 
+                "y": 244
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3370.JPEG": {
+        "coordinates": [
+            {
+                "x": 26.220276869905035, 
+                "y": 7.827080488320333, 
+                "z": 12.96180728016599
+            }, 
+            {
+                "x": 12.399162434139184, 
+                "y": 20.542255131724463, 
+                "z": 21.03433566642257
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 146, 
+                "width": 214, 
+                "x": 3, 
+                "y": 219
+            }, 
+            {
+                "height": 171, 
+                "width": 227, 
+                "x": 1, 
+                "y": 194
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3437.JPEG": {
+        "coordinates": [
+            {
+                "x": 1.8357636703148428, 
+                "y": -26.06750526197811, 
+                "z": 12.818045400208671
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 156, 
+                "width": 298, 
+                "x": 68, 
+                "y": 218
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3644.JPEG": {
+        "coordinates": [
+            {
+                "x": -43.431528088740464, 
+                "y": -11.921689604895157, 
+                "z": -17.88239150679459
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 67, 
+                "width": 214, 
+                "x": 50, 
+                "y": 277
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3710.JPEG": {
+        "coordinates": [
+            {
+                "x": -26.257206029300065, 
+                "y": 16.548566347138173, 
+                "z": 13.624939726046598
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 112, 
+                "width": 416, 
+                "x": 80, 
+                "y": 211
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3722.JPEG": {
+        "coordinates": [
+            {
+                "x": -1.0927084066813328, 
+                "y": -20.466935303349988, 
+                "z": 17.567519166650467
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 83, 
+                "width": 497, 
+                "x": 2, 
+                "y": 250
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3818.JPEG": {
+        "coordinates": [
+            {
+                "x": 13.598783004982241, 
+                "y": -3.9910072566087567, 
+                "z": 13.126019771200431
+            }, 
+            {
+                "x": 15.034441726291899, 
+                "y": -7.61179270869064, 
+                "z": 10.099994517657862
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 110, 
+                "width": 303, 
+                "x": 38, 
+                "y": 221
+            }, 
+            {
+                "height": 164, 
+                "width": 344, 
+                "x": 0, 
+                "y": 168
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3821.JPEG": {
+        "coordinates": [
+            {
+                "x": 2.137684454144638, 
+                "y": -22.029388101419535, 
+                "z": -14.305079489540887
+            }, 
+            {
+                "x": -9.091064392299453, 
+                "y": 19.988568400178675, 
+                "z": 14.046725076891457
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 209, 
+                "width": 266, 
+                "x": 122, 
+                "y": 164
+            }, 
+            {
+                "height": 154, 
+                "width": 264, 
+                "x": 121, 
+                "y": 218
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3825.JPEG": {
+        "coordinates": [
+            {
+                "x": 24.284013752780425, 
+                "y": 13.632782266380415, 
+                "z": -7.661044703719361
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 68, 
+                "width": 497, 
+                "x": 0, 
+                "y": 369
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3875.JPEG": {
+        "coordinates": [
+            {
+                "x": -22.847002153017783, 
+                "y": 5.256035266099914, 
+                "z": 20.3947731051894
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 93, 
+                "width": 403, 
+                "x": 38, 
+                "y": 239
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3946.JPEG": {
+        "coordinates": [
+            {
+                "x": 10.782528905459529, 
+                "y": -17.76661131913974, 
+                "z": -4.8979800381571925
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 170, 
+                "width": 408, 
+                "x": 2, 
+                "y": 148
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3947.JPEG": {
+        "coordinates": [
+            {
+                "x": 17.03365051544061, 
+                "y": -23.55585211994029, 
+                "z": 59.95833575101984
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 156, 
+                "width": 281, 
+                "x": 85, 
+                "y": 124
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3972.JPEG": {
+        "coordinates": [
+            {
+                "x": -13.037705224564911, 
+                "y": -5.111696699400264, 
+                "z": 25.00628692664092
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 174, 
+                "width": 164, 
+                "x": 198, 
+                "y": 100
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_3991.JPEG": {
+        "coordinates": [
+            {
+                "x": 23.411382703773366, 
+                "y": 8.564552546897476, 
+                "z": -1.0513968251806047
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 126, 
+                "width": 301, 
+                "x": 197, 
+                "y": 247
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_4146.JPEG": {
+        "coordinates": [
+            {
+                "x": -0.9327390756441792, 
+                "y": -1.9251665467256949, 
+                "z": 19.627377405440104
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 113, 
+                "width": 291, 
+                "x": 155, 
+                "y": 260
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_4186.JPEG": {
+        "coordinates": [
+            {
+                "x": 9.215777222209873, 
+                "y": -24.55321100323315, 
+                "z": 8.222380551138643
+            }, 
+            {
+                "x": 6.6745640720372155, 
+                "y": -25.505967050894636, 
+                "z": 4.853146449444977
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 84, 
+                "width": 369, 
+                "x": 130, 
+                "y": 247
+            }, 
+            {
+                "height": 74, 
+                "width": 345, 
+                "x": 129, 
+                "y": 257
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_4188.JPEG": {
+        "coordinates": [
+            {
+                "x": 15.265886553437461, 
+                "y": 26.531248630125212, 
+                "z": 8.500007063438224
+            }, 
+            {
+                "x": -10.9825333744364, 
+                "y": -4.760450871843934, 
+                "z": -2.2402685810713745
+            }, 
+            {
+                "x": -11.228088887226525, 
+                "y": 10.475063381463098, 
+                "z": -9.496684443660396
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 45, 
+                "width": 48, 
+                "x": 394, 
+                "y": 257
+            }, 
+            {
+                "height": 35, 
+                "width": 22, 
+                "x": 66, 
+                "y": 267
+            }, 
+            {
+                "height": 38, 
+                "width": 21, 
+                "x": 353, 
+                "y": 255
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_4204.JPEG": {
+        "coordinates": [
+            {
+                "x": 10.754041422654577, 
+                "y": -9.855871123928026, 
+                "z": 10.225794308708263
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 77, 
+                "width": 228, 
+                "x": 69, 
+                "y": 255
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_4241.JPEG": {
+        "coordinates": [
+            {
+                "x": 26.694353789902596, 
+                "y": -10.934006490238486, 
+                "z": 3.012335224661315
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 242, 
+                "width": 173, 
+                "x": 27, 
+                "y": 256
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_4359.JPEG": {
+        "coordinates": [
+            {
+                "x": -5.194811393673955, 
+                "y": 3.0950770754225827, 
+                "z": 18.183854822708735
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 53, 
+                "width": 199, 
+                "x": 38, 
+                "y": 132
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_4455.JPEG": {
+        "coordinates": [
+            {
+                "x": -9.74076856938076, 
+                "y": -20.93189119345698, 
+                "z": 5.060410022833705
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 130, 
+                "width": 314, 
+                "x": 18, 
+                "y": 231
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_4481.JPEG": {
+        "coordinates": [
+            {
+                "x": 2.988202949882797, 
+                "y": 2.008913141402318, 
+                "z": -29.37098609655809
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 75, 
+                "width": 389, 
+                "x": 108, 
+                "y": 256
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_4559.JPEG": {
+        "coordinates": [
+            {
+                "x": -32.46600144881147, 
+                "y": 7.484129298993632, 
+                "z": -5.192883422172936
+            }, 
+            {
+                "x": 18.410386991247442, 
+                "y": -12.387931415216261, 
+                "z": 7.764500418846687
+            }, 
+            {
+                "x": -1.1940255359596568, 
+                "y": -17.795653012387106, 
+                "z": -8.095600003352306
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 163, 
+                "width": 277, 
+                "x": 0, 
+                "y": 117
+            }, 
+            {
+                "height": 228, 
+                "width": 302, 
+                "x": 103, 
+                "y": 52
+            }, 
+            {
+                "height": 133, 
+                "width": 243, 
+                "x": 0, 
+                "y": 147
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_4676.JPEG": {
+        "coordinates": [
+            {
+                "x": 7.574590233616951, 
+                "y": -35.863812579270935, 
+                "z": -3.707739927776183
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 146, 
+                "width": 127, 
+                "x": 113, 
+                "y": 272
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_4808.JPEG": {
+        "coordinates": [
+            {
+                "x": 18.483262065477046, 
+                "y": -3.7791688666408416, 
+                "z": 7.550380077187769
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 191, 
+                "width": 414, 
+                "x": 85, 
+                "y": 83
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_4971.JPEG": {
+        "coordinates": [
+            {
+                "x": 1.415717688272447, 
+                "y": -19.567071290912537, 
+                "z": 9.826561797531564
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 194, 
+                "width": 332, 
+                "x": 0, 
+                "y": 271
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_4993.JPEG": {
+        "coordinates": [
+            {
+                "x": -4.163793969861047, 
+                "y": -12.612483859397786, 
+                "z": 10.221024455188147
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 85, 
+                "width": 215, 
+                "x": 0, 
+                "y": 191
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_5157.JPEG": {
+        "coordinates": [
+            {
+                "x": -6.558641880229177, 
+                "y": -20.31481945957985, 
+                "z": 0.22471931969808867
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 157, 
+                "width": 499, 
+                "x": 0, 
+                "y": 175
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_5162.JPEG": {
+        "coordinates": [
+            {
+                "x": 18.22064766657844, 
+                "y": -18.080884395619293, 
+                "z": -8.275170008995106
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 180, 
+                "width": 389, 
+                "x": 0, 
+                "y": 100
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_5256.JPEG": {
+        "coordinates": [
+            {
+                "x": -15.911632481488022, 
+                "y": 27.017788048753594, 
+                "z": -10.148794353952459
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 147, 
+                "width": 388, 
+                "x": 25, 
+                "y": 227
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_5274.JPEG": {
+        "coordinates": [
+            {
+                "x": 12.22968762077245, 
+                "y": -10.498407795164658, 
+                "z": 2.625107261531783
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 156, 
+                "width": 404, 
+                "x": 2, 
+                "y": 218
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_5532.JPEG": {
+        "coordinates": [
+            {
+                "x": 17.048178686900048, 
+                "y": -16.647085574714957, 
+                "z": -21.08442273921316
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 130, 
+                "width": 251, 
+                "x": 24, 
+                "y": 202
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_5538.JPEG": {
+        "coordinates": [
+            {
+                "x": -20.13452599811569, 
+                "y": 18.88729059211325, 
+                "z": -13.291719107065777
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 44, 
+                "width": 57, 
+                "x": 433, 
+                "y": 157
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_5616.JPEG": {
+        "coordinates": [
+            {
+                "x": -9.261863496929708, 
+                "y": -13.898704368218242, 
+                "z": 5.48212991823062
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 81, 
+                "width": 248, 
+                "x": 249, 
+                "y": 164
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_5707.JPEG": {
+        "coordinates": [
+            {
+                "x": 6.520471225161972, 
+                "y": -1.313162481057872, 
+                "z": 22.625161978030306
+            }, 
+            {
+                "x": 12.083633783378042, 
+                "y": -8.872988326520192, 
+                "z": 16.850928670292973
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 137, 
+                "width": 66, 
+                "x": 0, 
+                "y": 198
+            }, 
+            {
+                "height": 157, 
+                "width": 286, 
+                "x": 44, 
+                "y": 217
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_580.JPEG": {
+        "coordinates": [
+            {
+                "x": -9.312229335029956, 
+                "y": 11.642449672394276, 
+                "z": -22.31648253482312
+            }, 
+            {
+                "x": -12.02442199982501, 
+                "y": -16.28396969455662, 
+                "z": 14.501425212776486
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 46, 
+                "width": 103, 
+                "x": 70, 
+                "y": 169
+            }, 
+            {
+                "height": 142, 
+                "width": 290, 
+                "x": 2, 
+                "y": 231
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_5983.JPEG": {
+        "coordinates": [
+            {
+                "x": 11.796024766255531, 
+                "y": -24.151774406068537, 
+                "z": -0.40246871746007
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 197, 
+                "width": 331, 
+                "x": 0, 
+                "y": 301
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_6342.JPEG": {
+        "coordinates": [
+            {
+                "x": 6.511058669319784, 
+                "y": -17.899294861252898, 
+                "z": -8.013682693385524
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 202, 
+                "width": 366, 
+                "x": 132, 
+                "y": 131
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_637.JPEG": {
+        "coordinates": [
+            {
+                "x": 3.7325728748813907, 
+                "y": -4.725545072554801, 
+                "z": 25.538229999850223
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 137, 
+                "width": 136, 
+                "x": 238, 
+                "y": 200
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_6423.JPEG": {
+        "coordinates": [
+            {
+                "x": 9.58155766817109, 
+                "y": -13.281584464901325, 
+                "z": -4.111373763148933
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 262, 
+                "width": 373, 
+                "x": 0, 
+                "y": 235
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_6432.JPEG": {
+        "coordinates": [
+            {
+                "x": 6.779060978821014, 
+                "y": 12.32981786808206, 
+                "z": -38.77270348920498
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 42, 
+                "width": 52, 
+                "x": 446, 
+                "y": 189
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_6611.JPEG": {
+        "coordinates": [
+            {
+                "x": 3.701491430079091, 
+                "y": 11.344924678428567, 
+                "z": 28.020458269859546
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 162, 
+                "width": 331, 
+                "x": 133, 
+                "y": 132
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_6615.JPEG": {
+        "coordinates": [
+            {
+                "x": -14.169704095878945, 
+                "y": 9.642109121859932, 
+                "z": -0.5222805067380668
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 48, 
+                "width": 129, 
+                "x": 60, 
+                "y": 281
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_6644.JPEG": {
+        "coordinates": [
+            {
+                "x": 27.028146970443178, 
+                "y": -18.30635754944274, 
+                "z": -4.754734462821537
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 223, 
+                "width": 146, 
+                "x": 497, 
+                "y": 217
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_668.JPEG": {
+        "coordinates": [
+            {
+                "x": 9.048630945184087, 
+                "y": -10.209421479015072, 
+                "z": 22.104195474467808
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 115, 
+                "width": 456, 
+                "x": 20, 
+                "y": 228
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_6875.JPEG": {
+        "coordinates": [
+            {
+                "x": -3.159005404233223, 
+                "y": -14.173514098479297, 
+                "z": -26.267722012582084
+            }, 
+            {
+                "x": 0.507102220248011, 
+                "y": -14.425589900428605, 
+                "z": 14.7983733322897
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 92, 
+                "width": 389, 
+                "x": 0, 
+                "y": 241
+            }, 
+            {
+                "height": 96, 
+                "width": 441, 
+                "x": 0, 
+                "y": 236
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_6971.JPEG": {
+        "coordinates": [
+            {
+                "x": -17.914990401028003, 
+                "y": 0.7318010106837989, 
+                "z": 17.198494316225798
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 27, 
+                "width": 242, 
+                "x": 90, 
+                "y": 354
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_6984.JPEG": {
+        "coordinates": [
+            {
+                "x": 9.855027816468663, 
+                "y": 4.485232567756775, 
+                "z": -11.072918763631126
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 20, 
+                "width": 80, 
+                "x": 357, 
+                "y": 314
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_7248.JPEG": {
+        "coordinates": [
+            {
+                "x": 0.11602360528190184, 
+                "y": -0.651945630078353, 
+                "z": 7.654555516827019
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 161, 
+                "width": 499, 
+                "x": 0, 
+                "y": 170
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_7265.JPEG": {
+        "coordinates": [
+            {
+                "x": 6.2259323802330595, 
+                "y": -16.147993307681933, 
+                "z": 18.924425762025404
+            }, 
+            {
+                "x": 13.008171205894572, 
+                "y": -19.53946564789143, 
+                "z": 19.6888338915985
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 108, 
+                "width": 275, 
+                "x": 211, 
+                "y": 120
+            }, 
+            {
+                "height": 89, 
+                "width": 240, 
+                "x": 26, 
+                "y": 190
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_7277.JPEG": {
+        "coordinates": [
+            {
+                "x": -13.938991989332834, 
+                "y": -8.674651928862152, 
+                "z": 7.131102266204772
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 136, 
+                "width": 45, 
+                "x": 454, 
+                "y": 198
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_73.JPEG": {
+        "coordinates": [
+            {
+                "x": -0.040116833314495635, 
+                "y": -9.146489342710526, 
+                "z": 18.937315414821843
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 147, 
+                "width": 344, 
+                "x": 55, 
+                "y": 187
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_7397.JPEG": {
+        "coordinates": [
+            {
+                "x": 20.810010266616345, 
+                "y": 1.8556849951084327, 
+                "z": 17.291151432200113
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 218, 
+                "width": 398, 
+                "x": 101, 
+                "y": 156
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_7470.JPEG": {
+        "coordinates": [
+            {
+                "x": 7.280859393712612, 
+                "y": -16.651148169643857, 
+                "z": 9.631469162228157
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 153, 
+                "width": 346, 
+                "x": 65, 
+                "y": 217
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_7550.JPEG": {
+        "coordinates": [
+            {
+                "x": -1.9354081452220513, 
+                "y": -22.660190899449375, 
+                "z": -25.12112374124548
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 171, 
+                "width": 262, 
+                "x": 236, 
+                "y": 157
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_7706.JPEG": {
+        "coordinates": [
+            {
+                "x": 23.301105863326907, 
+                "y": -7.667681928184249, 
+                "z": 10.36396608266715
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 163, 
+                "width": 255, 
+                "x": 152, 
+                "y": 170
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_7753.JPEG": {
+        "coordinates": [
+            {
+                "x": -18.79368430571135, 
+                "y": -11.694128546338053, 
+                "z": 10.1049804117395
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 58, 
+                "width": 47, 
+                "x": 196, 
+                "y": 242
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_7768.JPEG": {
+        "coordinates": [
+            {
+                "x": 20.71694003441713, 
+                "y": -18.89855296818029, 
+                "z": 17.402482701516075
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 137, 
+                "width": 359, 
+                "x": 0, 
+                "y": 236
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_8024.JPEG": {
+        "coordinates": [
+            {
+                "x": 0.277964904428026, 
+                "y": -29.254185506776615, 
+                "z": 8.951443960250192
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 131, 
+                "width": 130, 
+                "x": 288, 
+                "y": 182
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_8101.JPEG": {
+        "coordinates": [
+            {
+                "x": -11.75244224616021, 
+                "y": 3.834448428457159, 
+                "z": 22.328340139707
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 146, 
+                "width": 329, 
+                "x": 0, 
+                "y": 141
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_816.JPEG": {
+        "coordinates": [
+            {
+                "x": 23.857767275417828, 
+                "y": -6.52781468167966, 
+                "z": -3.270429878056174
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 393, 
+                "width": 370, 
+                "x": 1, 
+                "y": 105
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_8200.JPEG": {
+        "coordinates": [
+            {
+                "x": -2.3324298466324325, 
+                "y": -6.321233323464984, 
+                "z": 12.413110833629
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 115, 
+                "width": 482, 
+                "x": 17, 
+                "y": 246
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_8222.JPEG": {
+        "coordinates": [
+            {
+                "x": -15.165206180547571, 
+                "y": -22.252097532925003, 
+                "z": -8.936238325478183
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 93, 
+                "width": 155, 
+                "x": 343, 
+                "y": 238
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_8277.JPEG": {
+        "coordinates": [
+            {
+                "x": 0.5346035361775182, 
+                "y": -14.94384651529829, 
+                "z": 24.691204654260147
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 98, 
+                "width": 239, 
+                "x": 106, 
+                "y": 195
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_8310.JPEG": {
+        "coordinates": [
+            {
+                "x": -8.019572074918406, 
+                "y": 51.591224724636646, 
+                "z": -13.636320377494892
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 40, 
+                "width": 21, 
+                "x": 478, 
+                "y": 189
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_8326.JPEG": {
+        "coordinates": [
+            {
+                "x": 6.764274845266356, 
+                "y": -3.6822609073213686, 
+                "z": 8.520562637847695
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 105, 
+                "width": 265, 
+                "x": 3, 
+                "y": 269
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_834.JPEG": {
+        "coordinates": [
+            {
+                "x": 8.000865065455637, 
+                "y": 2.2799812828891692, 
+                "z": 27.024581495097063
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 218, 
+                "width": 113, 
+                "x": 87, 
+                "y": 273
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_867.JPEG": {
+        "coordinates": [
+            {
+                "x": 15.893385822635317, 
+                "y": -15.942279607426093, 
+                "z": 2.2397610134512598
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 153, 
+                "width": 237, 
+                "x": 111, 
+                "y": 217
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_879.JPEG": {
+        "coordinates": [
+            {
+                "x": 1.026149577744069, 
+                "y": -6.377860214442788, 
+                "z": -1.1851563526985858
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 229, 
+                "width": 433, 
+                "x": 1, 
+                "y": 145
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_889.JPEG": {
+        "coordinates": [
+            {
+                "x": 1.433612872200795, 
+                "y": 6.036147347375475, 
+                "z": 6.150472301834789
+            }, 
+            {
+                "x": 19.980688614081462, 
+                "y": -13.337924684220834, 
+                "z": 12.697596673864147
+            }, 
+            {
+                "x": -10.834706250842594, 
+                "y": -11.809483096929963, 
+                "z": -22.687282550975844
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 30, 
+                "width": 52, 
+                "x": 430, 
+                "y": 221
+            }, 
+            {
+                "height": 102, 
+                "width": 142, 
+                "x": 0, 
+                "y": 207
+            }, 
+            {
+                "height": 50, 
+                "width": 62, 
+                "x": 420, 
+                "y": 215
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n00141669/n00141669_965.JPEG": {
+        "coordinates": [
+            {
+                "x": 2.3137559678611423, 
+                "y": 0.5685260914460664, 
+                "z": 14.46156631050729
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 109, 
+                "width": 374, 
+                "x": 0, 
+                "y": 265
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_100079.JPEG": {
+        "coordinates": [
+            {
+                "x": -4.600342338869139, 
+                "y": 14.514895070341659, 
+                "z": -0.9603647147214325
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 35, 
+                "width": 96, 
+                "x": 204, 
+                "y": 41
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_100995.JPEG": {
+        "coordinates": [
+            {
+                "x": 5.076868668808131, 
+                "y": 8.123198354130016, 
+                "z": -4.545971770489256
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 84, 
+                "width": 229, 
+                "x": 267, 
+                "y": 76
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_10194.JPEG": {
+        "coordinates": [
+            {
+                "x": -17.093980197692225, 
+                "y": 2.4667668422381888, 
+                "z": -20.52702234540392
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 40, 
+                "width": 103, 
+                "x": 326, 
+                "y": 155
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_103721.JPEG": {
+        "coordinates": [
+            {
+                "x": 7.077090924115348, 
+                "y": 16.115441512174293, 
+                "z": -0.500618882344698
+            }, 
+            {
+                "x": -14.114487418490862, 
+                "y": 16.04967976133034, 
+                "z": -17.254761443059945
+            }, 
+            {
+                "x": -1.1978267825568905, 
+                "y": 17.41376275987175, 
+                "z": -23.682465627136594
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 35, 
+                "width": 81, 
+                "x": 26, 
+                "y": 114
+            }, 
+            {
+                "height": 40, 
+                "width": 67, 
+                "x": 149, 
+                "y": 107
+            }, 
+            {
+                "height": 35, 
+                "width": 71, 
+                "x": 329, 
+                "y": 112
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_104136.JPEG": {
+        "coordinates": [
+            {
+                "x": 28.140187951299747, 
+                "y": 0.014400985877624044, 
+                "z": 13.744125136699399
+            }, 
+            {
+                "x": 9.932060643651587, 
+                "y": 21.38675373234043, 
+                "z": 10.729407755157037
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 163, 
+                "width": 166, 
+                "x": 299, 
+                "y": 135
+            }, 
+            {
+                "height": 95, 
+                "width": 132, 
+                "x": 315, 
+                "y": 176
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_104256.JPEG": {
+        "coordinates": [
+            {
+                "x": 7.209611410551883, 
+                "y": 11.481847276644116, 
+                "z": -23.096148528367053
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 202, 
+                "width": 182, 
+                "x": 317, 
+                "y": 172
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_104671.JPEG": {
+        "coordinates": [
+            {
+                "x": -2.1990396750061607, 
+                "y": 7.725017324060727, 
+                "z": -10.024569278140955
+            }, 
+            {
+                "x": -5.908223922823591, 
+                "y": 28.132679192019136, 
+                "z": -6.72551072793586
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 281, 
+                "width": 306, 
+                "x": 125, 
+                "y": 40
+            }, 
+            {
+                "height": 180, 
+                "width": 298, 
+                "x": 128, 
+                "y": 137
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_104903.JPEG": {
+        "coordinates": [
+            {
+                "x": 4.886334228877669, 
+                "y": 9.001733016254793, 
+                "z": -11.223250497538864
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 138, 
+                "width": 205, 
+                "x": 267, 
+                "y": 124
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_105275.JPEG": {
+        "coordinates": [
+            {
+                "x": 14.940085818810472, 
+                "y": 0.057743855765081446, 
+                "z": -10.00929331483704
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 59, 
+                "width": 58, 
+                "x": 0, 
+                "y": 77
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_105957.JPEG": {
+        "coordinates": [
+            {
+                "x": 42.47276998905842, 
+                "y": 40.647074707330574, 
+                "z": 8.261490688597297
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 107, 
+                "width": 120, 
+                "x": 236, 
+                "y": 153
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_10709.JPEG": {
+        "coordinates": [
+            {
+                "x": -1.772265008163953, 
+                "y": 4.409793187751069, 
+                "z": 29.874585729548443
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 103, 
+                "width": 90, 
+                "x": 362, 
+                "y": 166
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_109478.JPEG": {
+        "coordinates": [
+            {
+                "x": 5.036066391382449, 
+                "y": -1.9886442080334947, 
+                "z": -13.174984474444358
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 45, 
+                "width": 100, 
+                "x": 134, 
+                "y": 145
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_11112.JPEG": {
+        "coordinates": [
+            {
+                "x": 17.615603595689915, 
+                "y": 28.672957124978307, 
+                "z": -0.615457624380485
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 235, 
+                "width": 44, 
+                "x": 287, 
+                "y": 231
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_12827.JPEG": {
+        "coordinates": [
+            {
+                "x": -12.568600052991618, 
+                "y": -4.411335146068889, 
+                "z": -14.185502577197957
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 37, 
+                "width": 74, 
+                "x": 47, 
+                "y": 164
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_13183.JPEG": {
+        "coordinates": [
+            {
+                "x": 13.688620022735632, 
+                "y": 16.03841068351921, 
+                "z": -20.31784538001493
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 110, 
+                "width": 127, 
+                "x": 0, 
+                "y": 118
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_14245.JPEG": {
+        "coordinates": [
+            {
+                "x": -1.7331836837461752, 
+                "y": 0.2611980905104459, 
+                "z": -11.618954072050277
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 138, 
+                "width": 307, 
+                "x": 168, 
+                "y": 218
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_14483.JPEG": {
+        "coordinates": [
+            {
+                "x": 18.02255251155448, 
+                "y": 8.247186913503459, 
+                "z": -18.568972917177298
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 162, 
+                "width": 269, 
+                "x": 36, 
+                "y": 125
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_15707.JPEG": {
+        "coordinates": [
+            {
+                "x": 2.305715156412979, 
+                "y": 5.3337003830265015, 
+                "z": -16.779063335799876
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 130, 
+                "width": 241, 
+                "x": 250, 
+                "y": 170
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_16321.JPEG": {
+        "coordinates": [
+            {
+                "x": -3.8412938000674326, 
+                "y": -0.7319194945115505, 
+                "z": -17.86983915243644
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 56, 
+                "width": 150, 
+                "x": 313, 
+                "y": 241
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_16335.JPEG": {
+        "coordinates": [
+            {
+                "x": 42.047873467161374, 
+                "y": 19.251885101397487, 
+                "z": -26.57991357674935
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 87, 
+                "width": 53, 
+                "x": 1, 
+                "y": 146
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_16410.JPEG": {
+        "coordinates": [
+            {
+                "x": 5.52433919397855, 
+                "y": -13.354931238730506, 
+                "z": -18.831940614360715
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 119, 
+                "width": 190, 
+                "x": 308, 
+                "y": 146
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_16754.JPEG": {
+        "coordinates": [
+            {
+                "x": -9.648900458583435, 
+                "y": 9.137394759179982, 
+                "z": 15.26971581972231
+            }, 
+            {
+                "x": -9.530821017616157, 
+                "y": 0.12989261122661888, 
+                "z": -0.4495028015243986
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 17, 
+                "width": 18, 
+                "x": 415, 
+                "y": 144
+            }, 
+            {
+                "height": 14, 
+                "width": 23, 
+                "x": 367, 
+                "y": 154
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_16947.JPEG": {
+        "coordinates": [
+            {
+                "x": 12.344496940386387, 
+                "y": 15.356168524214254, 
+                "z": 6.358321853091848
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 49, 
+                "width": 117, 
+                "x": 355, 
+                "y": 89
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_16981.JPEG": {
+        "coordinates": [
+            {
+                "x": 1.8562509598702348, 
+                "y": 13.014166939617626, 
+                "z": -4.002117915310811
+            }, 
+            {
+                "x": -0.8164234344169826, 
+                "y": 6.501584667780653, 
+                "z": -2.657255970404302
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 74, 
+                "width": 138, 
+                "x": 28, 
+                "y": 201
+            }, 
+            {
+                "height": 99, 
+                "width": 228, 
+                "x": 195, 
+                "y": 183
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_1884.JPEG": {
+        "coordinates": [
+            {
+                "x": -14.85362095635612, 
+                "y": -3.2638172842323177, 
+                "z": -21.15161060459279
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 36, 
+                "width": 114, 
+                "x": 0, 
+                "y": 155
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_20037.JPEG": {
+        "coordinates": [
+            {
+                "x": -18.21198797114135, 
+                "y": 2.643338915624676, 
+                "z": -12.982618591064954
+            }, 
+            {
+                "x": 0.8274649793914992, 
+                "y": 13.336866926930341, 
+                "z": 3.214878887153687
+            }, 
+            {
+                "x": -17.680659290010617, 
+                "y": -10.78884570151047, 
+                "z": -7.184151100678042
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 51, 
+                "width": 71, 
+                "x": 0, 
+                "y": 149
+            }, 
+            {
+                "height": 53, 
+                "width": 110, 
+                "x": 25, 
+                "y": 140
+            }, 
+            {
+                "height": 74, 
+                "width": 42, 
+                "x": 0, 
+                "y": 133
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_21707.JPEG": {
+        "coordinates": [
+            {
+                "x": 20.43735548694424, 
+                "y": -9.085920033774322, 
+                "z": -19.55725502792782
+            }, 
+            {
+                "x": -4.907346320568375, 
+                "y": -15.360528957916454, 
+                "z": -15.49175956987372
+            }, 
+            {
+                "x": -27.99287150677938, 
+                "y": -49.825486081826384, 
+                "z": -35.34575405756514
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 87, 
+                "width": 89, 
+                "x": 221, 
+                "y": 127
+            }, 
+            {
+                "height": 28, 
+                "width": 62, 
+                "x": 220, 
+                "y": 126
+            }, 
+            {
+                "height": 82, 
+                "width": 104, 
+                "x": 218, 
+                "y": 136
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_23174.JPEG": {
+        "coordinates": [
+            {
+                "x": -21.070839182426646, 
+                "y": 6.380935244827167, 
+                "z": -13.76035100019412
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 44, 
+                "width": 54, 
+                "x": 221, 
+                "y": 172
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_24593.JPEG": {
+        "coordinates": [
+            {
+                "x": -23.900129369607036, 
+                "y": 10.50219602010938, 
+                "z": 8.92342243266768
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 161, 
+                "width": 126, 
+                "x": 0, 
+                "y": 67
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_26164.JPEG": {
+        "coordinates": [
+            {
+                "x": 19.14238097203915, 
+                "y": 11.618893626561812, 
+                "z": 9.08434891869765
+            }, 
+            {
+                "x": 13.127275604990785, 
+                "y": -23.606549054694916, 
+                "z": -14.722452640315788
+            }, 
+            {
+                "x": 18.158298268360273, 
+                "y": 8.572846860657545, 
+                "z": 11.794927381585545
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 54, 
+                "width": 98, 
+                "x": 401, 
+                "y": 118
+            }, 
+            {
+                "height": 178, 
+                "width": 289, 
+                "x": 210, 
+                "y": 175
+            }, 
+            {
+                "height": 48, 
+                "width": 70, 
+                "x": 394, 
+                "y": 120
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_26181.JPEG": {
+        "coordinates": [
+            {
+                "x": 21.937988800187306, 
+                "y": 5.261144249524516, 
+                "z": -12.469435223786741
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 372, 
+                "width": 272, 
+                "x": 2, 
+                "y": 2
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_26771.JPEG": {
+        "coordinates": [
+            {
+                "x": 1.4097073811222514, 
+                "y": -10.099088371548985, 
+                "z": -12.122874253698106
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 52, 
+                "width": 24, 
+                "x": 31, 
+                "y": 68
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_26855.JPEG": {
+        "coordinates": [
+            {
+                "x": 9.169464255177198, 
+                "y": 13.04626874050279, 
+                "z": -4.080101069131307
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 36, 
+                "width": 87, 
+                "x": 273, 
+                "y": 70
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_27089.JPEG": {
+        "coordinates": [
+            {
+                "x": -12.457134037026261, 
+                "y": -2.5582353231503165, 
+                "z": 17.289134279786797
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 18, 
+                "width": 26, 
+                "x": 300, 
+                "y": 147
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_28011.JPEG": {
+        "coordinates": [
+            {
+                "x": -4.557409109920674, 
+                "y": 22.10494311501052, 
+                "z": -1.9652839428938433
+            }, 
+            {
+                "x": -2.407888963406317, 
+                "y": 18.95151631919308, 
+                "z": 24.0204693557518
+            }, 
+            {
+                "x": -0.6512339929773819, 
+                "y": 20.983641461358786, 
+                "z": 0.01113846864623721
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 37, 
+                "width": 52, 
+                "x": 447, 
+                "y": 99
+            }, 
+            {
+                "height": 88, 
+                "width": 209, 
+                "x": 227, 
+                "y": 92
+            }, 
+            {
+                "height": 53, 
+                "width": 55, 
+                "x": 444, 
+                "y": 82
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_28783.JPEG": {
+        "coordinates": [
+            {
+                "x": 15.048572217074478, 
+                "y": 20.07674982776405, 
+                "z": -13.255039342959774
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 185, 
+                "width": 272, 
+                "x": 224, 
+                "y": 143
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_28922.JPEG": {
+        "coordinates": [
+            {
+                "x": -5.629268415579821, 
+                "y": 9.354038602375503, 
+                "z": 6.009956229451457
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 12, 
+                "width": 16, 
+                "x": 227, 
+                "y": 80
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_29037.JPEG": {
+        "coordinates": [
+            {
+                "x": 6.309219322130914, 
+                "y": -4.178291435144465, 
+                "z": -21.326196010647
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 164, 
+                "width": 264, 
+                "x": 235, 
+                "y": 108
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_30251.JPEG": {
+        "coordinates": [
+            {
+                "x": -25.603070910287954, 
+                "y": 0.43233473767393793, 
+                "z": -6.501074852918195
+            }, 
+            {
+                "x": -10.125728145725219, 
+                "y": -8.549204191771143, 
+                "z": -8.208115384452118
+            }, 
+            {
+                "x": -10.959134571417003, 
+                "y": 16.054526444163834, 
+                "z": 5.180316663491215
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 191, 
+                "width": 74, 
+                "x": 0, 
+                "y": 182
+            }, 
+            {
+                "height": 31, 
+                "width": 51, 
+                "x": 287, 
+                "y": 76
+            }, 
+            {
+                "height": 29, 
+                "width": 36, 
+                "x": 244, 
+                "y": 83
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_3083.JPEG": {
+        "coordinates": [
+            {
+                "x": 1.542444639253887, 
+                "y": -0.849115772972796, 
+                "z": -17.683156279964976
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 72, 
+                "width": 151, 
+                "x": 106, 
+                "y": 164
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_31534.JPEG": {
+        "coordinates": [
+            {
+                "x": -7.587494927706396, 
+                "y": -12.189054853118902, 
+                "z": -2.1310195232178226
+            }, 
+            {
+                "x": -21.935401773752382, 
+                "y": -3.7449251183480996, 
+                "z": -13.532883671370326
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 55, 
+                "width": 109, 
+                "x": 28, 
+                "y": 220
+            }, 
+            {
+                "height": 31, 
+                "width": 96, 
+                "x": 41, 
+                "y": 217
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_31695.JPEG": {
+        "coordinates": [
+            {
+                "x": 5.372942374264613, 
+                "y": 21.061509322530963, 
+                "z": -3.788975180488656
+            }, 
+            {
+                "x": 6.960278257417988, 
+                "y": 24.60954309343324, 
+                "z": -2.3511655413682644
+            }, 
+            {
+                "x": -9.015410555123657, 
+                "y": -27.027838079683235, 
+                "z": -3.9853548781065418
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 50, 
+                "width": 160, 
+                "x": 267, 
+                "y": 153
+            }, 
+            {
+                "height": 52, 
+                "width": 137, 
+                "x": 268, 
+                "y": 149
+            }, 
+            {
+                "height": 74, 
+                "width": 128, 
+                "x": 38, 
+                "y": 140
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_33067.JPEG": {
+        "coordinates": [
+            {
+                "x": -17.210592787630205, 
+                "y": 11.972025374852885, 
+                "z": -7.0008509034027
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 54, 
+                "width": 27, 
+                "x": 0, 
+                "y": 66
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_34609.JPEG": {
+        "coordinates": [
+            {
+                "x": 14.90436620109601, 
+                "y": 14.037105355574184, 
+                "z": 15.851577491868273
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 87, 
+                "width": 151, 
+                "x": 273, 
+                "y": 123
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_38997.JPEG": {
+        "coordinates": [
+            {
+                "x": 19.365637727403527, 
+                "y": -13.090260411656544, 
+                "z": -3.4069522744618137
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 26, 
+                "width": 32, 
+                "x": 447, 
+                "y": 95
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_3902.JPEG": {
+        "coordinates": [
+            {
+                "x": -22.672799701068868, 
+                "y": -12.925570356911495, 
+                "z": -6.212967778413674
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 54, 
+                "width": 46, 
+                "x": 0, 
+                "y": 220
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_42186.JPEG": {
+        "coordinates": [
+            {
+                "x": 12.632661856630861, 
+                "y": -9.855006687055427, 
+                "z": -17.572076454281937
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 155, 
+                "width": 108, 
+                "x": 0, 
+                "y": 147
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_42638.JPEG": {
+        "coordinates": [
+            {
+                "x": -5.537463475623701, 
+                "y": -5.6515575981089325, 
+                "z": -19.853951941820654
+            }, 
+            {
+                "x": 4.421098990134761, 
+                "y": 13.611914962078455, 
+                "z": 7.9372636366816325
+            }, 
+            {
+                "x": -21.745925120765122, 
+                "y": 19.283255262899285, 
+                "z": -5.1799855684276865
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 76, 
+                "width": 138, 
+                "x": 358, 
+                "y": 192
+            }, 
+            {
+                "height": 45, 
+                "width": 88, 
+                "x": 291, 
+                "y": 190
+            }, 
+            {
+                "height": 67, 
+                "width": 105, 
+                "x": 278, 
+                "y": 173
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_43507.JPEG": {
+        "coordinates": [
+            {
+                "x": 4.183220706249519, 
+                "y": 17.746976565295583, 
+                "z": -15.68086667078431
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 159, 
+                "width": 140, 
+                "x": 0, 
+                "y": 91
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_43619.JPEG": {
+        "coordinates": [
+            {
+                "x": -6.29121683417597, 
+                "y": -28.445918264918703, 
+                "z": 4.1018490690208225
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 19, 
+                "width": 25, 
+                "x": 53, 
+                "y": 142
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_45793.JPEG": {
+        "coordinates": [
+            {
+                "x": -5.832270743648346, 
+                "y": 6.458995945890547, 
+                "z": 10.347020120134138
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 14, 
+                "width": 18, 
+                "x": 88, 
+                "y": 147
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_46349.JPEG": {
+        "coordinates": [
+            {
+                "x": -0.7879985086080139, 
+                "y": -3.588745219494647, 
+                "z": -24.724222395221357
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 105, 
+                "width": 146, 
+                "x": 186, 
+                "y": 307
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_47030.JPEG": {
+        "coordinates": [
+            {
+                "x": -3.4799276346870163, 
+                "y": 17.478054479556107, 
+                "z": 3.707978865169961
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 38, 
+                "width": 71, 
+                "x": 383, 
+                "y": 82
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_47805.JPEG": {
+        "coordinates": [
+            {
+                "x": 13.099271768385515, 
+                "y": 2.1587108654337657, 
+                "z": -23.78774911313292
+            }, 
+            {
+                "x": -6.988455461222254, 
+                "y": 2.8322586898273974, 
+                "z": -22.338916186355622
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 86, 
+                "width": 175, 
+                "x": 323, 
+                "y": 0
+            }, 
+            {
+                "height": 60, 
+                "width": 168, 
+                "x": 54, 
+                "y": 0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_49164.JPEG": {
+        "coordinates": [
+            {
+                "x": 8.944685463408101, 
+                "y": 1.8322343061539286, 
+                "z": -5.0602031343652865
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 44, 
+                "width": 87, 
+                "x": 301, 
+                "y": 136
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_50021.JPEG": {
+        "coordinates": [
+            {
+                "x": -0.8436349900512636, 
+                "y": 24.470117148586578, 
+                "z": -16.354974786086434
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 262, 
+                "width": 388, 
+                "x": 0, 
+                "y": 70
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_50106.JPEG": {
+        "coordinates": [
+            {
+                "x": -16.33880220066379, 
+                "y": 22.918715272951115, 
+                "z": 8.574010669183965
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 50, 
+                "width": 55, 
+                "x": 272, 
+                "y": 274
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_50501.JPEG": {
+        "coordinates": [
+            {
+                "x": -16.169923756185874, 
+                "y": 1.3725056420910202, 
+                "z": -1.7474655895285114
+            }, 
+            {
+                "x": -8.315402683984855, 
+                "y": 6.4932924347843075, 
+                "z": -5.792032155537673
+            }, 
+            {
+                "x": 14.555142589996604, 
+                "y": 8.425540838237776, 
+                "z": 5.359675764115103
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 23, 
+                "width": 55, 
+                "x": 115, 
+                "y": 239
+            }, 
+            {
+                "height": 20, 
+                "width": 60, 
+                "x": 9, 
+                "y": 247
+            }, 
+            {
+                "height": 25, 
+                "width": 51, 
+                "x": 179, 
+                "y": 230
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_50513.JPEG": {
+        "coordinates": [
+            {
+                "x": -5.192236101160077, 
+                "y": 12.458312057864212, 
+                "z": 10.244866278132596
+            }, 
+            {
+                "x": -10.178056672958526, 
+                "y": 5.4575560295421095, 
+                "z": 5.777931005000421
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 8, 
+                "width": 18, 
+                "x": 128, 
+                "y": 154
+            }, 
+            {
+                "height": 11, 
+                "width": 17, 
+                "x": 482, 
+                "y": 147
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_50559.JPEG": {
+        "coordinates": [
+            {
+                "x": 3.3395582631081835, 
+                "y": 1.6428138790304359, 
+                "z": 1.3783862552567314
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 270, 
+                "width": 94, 
+                "x": 0, 
+                "y": 103
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_51155.JPEG": {
+        "coordinates": [
+            {
+                "x": 2.275761230246937, 
+                "y": 2.316617661347394, 
+                "z": -9.541782018892823
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 72, 
+                "width": 176, 
+                "x": 274, 
+                "y": 185
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_52088.JPEG": {
+        "coordinates": [
+            {
+                "x": -10.621609389454862, 
+                "y": 21.399315889628202, 
+                "z": -8.282882655586445
+            }, 
+            {
+                "x": 10.80999963511446, 
+                "y": 4.2380979604015385, 
+                "z": 0.31754081382543736
+            }, 
+            {
+                "x": -14.970974123712475, 
+                "y": -10.125753344910002, 
+                "z": -15.022673321699985
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 46, 
+                "width": 111, 
+                "x": 342, 
+                "y": 77
+            }, 
+            {
+                "height": 45, 
+                "width": 66, 
+                "x": 292, 
+                "y": 91
+            }, 
+            {
+                "height": 23, 
+                "width": 63, 
+                "x": 371, 
+                "y": 98
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_53746.JPEG": {
+        "coordinates": [
+            {
+                "x": 2.806149246221334, 
+                "y": 26.53648050222175, 
+                "z": -6.848557309177666
+            }, 
+            {
+                "x": -19.855502596477944, 
+                "y": -6.688859171173535, 
+                "z": 21.651015738202577
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 38, 
+                "width": 56, 
+                "x": 0, 
+                "y": 148
+            }, 
+            {
+                "height": 19, 
+                "width": 30, 
+                "x": 409, 
+                "y": 152
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_53970.JPEG": {
+        "coordinates": [
+            {
+                "x": 15.170603700624671, 
+                "y": 4.495147897349742, 
+                "z": -5.0911927496557325
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 72, 
+                "width": 95, 
+                "x": 45, 
+                "y": 200
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_54344.JPEG": {
+        "coordinates": [
+            {
+                "x": -19.333600227881085, 
+                "y": -19.90702757187908, 
+                "z": 11.750743284034462
+            }, 
+            {
+                "x": 8.179202777944708, 
+                "y": -2.423256708740879, 
+                "z": -1.902195130842405
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 40, 
+                "width": 107, 
+                "x": 325, 
+                "y": 151
+            }, 
+            {
+                "height": 46, 
+                "width": 87, 
+                "x": 234, 
+                "y": 143
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_5509.JPEG": {
+        "coordinates": [
+            {
+                "x": -9.356213354591672, 
+                "y": -26.621741906297963, 
+                "z": 12.156866821949246
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 224, 
+                "width": 294, 
+                "x": 203, 
+                "y": 114
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_5522.JPEG": {
+        "coordinates": [
+            {
+                "x": -17.40619681133052, 
+                "y": -19.922171586209895, 
+                "z": 0.28032151095051616
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 60, 
+                "width": 131, 
+                "x": 22, 
+                "y": 198
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_55673.JPEG": {
+        "coordinates": [
+            {
+                "x": 9.628844886289349, 
+                "y": 6.41799556929762, 
+                "z": -19.093981198694788
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 112, 
+                "width": 131, 
+                "x": 0, 
+                "y": 29
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_56518.JPEG": {
+        "coordinates": [
+            {
+                "x": 7.456022665784193, 
+                "y": 10.218395457609828, 
+                "z": 1.5500276155582897
+            }, 
+            {
+                "x": 5.300401152806496, 
+                "y": 16.7458702938034, 
+                "z": -8.19962604066383
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 117, 
+                "width": 182, 
+                "x": 141, 
+                "y": 159
+            }, 
+            {
+                "height": 55, 
+                "width": 153, 
+                "x": 146, 
+                "y": 188
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_56829.JPEG": {
+        "coordinates": [
+            {
+                "x": 22.489204249575497, 
+                "y": -6.982149770054021, 
+                "z": -11.747693334617964
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 17, 
+                "width": 29, 
+                "x": 470, 
+                "y": 119
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_57039.JPEG": {
+        "coordinates": [
+            {
+                "x": -5.189311448094435, 
+                "y": 9.53142447670568, 
+                "z": 22.133594410883283
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 20, 
+                "width": 22, 
+                "x": 281, 
+                "y": 187
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_57867.JPEG": {
+        "coordinates": [
+            {
+                "x": 9.418297770122068, 
+                "y": 13.212668955397916, 
+                "z": 21.722871304916808
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 132, 
+                "width": 292, 
+                "x": 178, 
+                "y": 81
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_57910.JPEG": {
+        "coordinates": [
+            {
+                "x": -13.07761548113287, 
+                "y": 5.292625992265858, 
+                "z": 12.657320351076073
+            }, 
+            {
+                "x": -11.903030898075773, 
+                "y": 3.189675135904158, 
+                "z": -11.840571233648195
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 17, 
+                "width": 29, 
+                "x": 336, 
+                "y": 75
+            }, 
+            {
+                "height": 28, 
+                "width": 67, 
+                "x": 278, 
+                "y": 113
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_59251.JPEG": {
+        "coordinates": [
+            {
+                "x": -4.419063206554599, 
+                "y": 17.933511928091836, 
+                "z": -8.763662890813288
+            }, 
+            {
+                "x": -1.5412105422113331, 
+                "y": 21.30441242715724, 
+                "z": -10.81248961025636
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 66, 
+                "width": 139, 
+                "x": 247, 
+                "y": 134
+            }, 
+            {
+                "height": 75, 
+                "width": 156, 
+                "x": 69, 
+                "y": 125
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_59699.JPEG": {
+        "coordinates": [
+            {
+                "x": -10.316752295223619, 
+                "y": -25.467338607454174, 
+                "z": 19.670246406608364
+            }, 
+            {
+                "x": -18.165171659023002, 
+                "y": 5.349089183162429, 
+                "z": -6.5720019744431575
+            }, 
+            {
+                "x": -8.50145228752421, 
+                "y": 6.258258317662139, 
+                "z": 0.25013197238539236
+            }, 
+            {
+                "x": 13.705515096103714, 
+                "y": 21.372165306628442, 
+                "z": 2.7355330829518465
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 17, 
+                "width": 27, 
+                "x": 472, 
+                "y": 226
+            }, 
+            {
+                "height": 29, 
+                "width": 37, 
+                "x": 462, 
+                "y": 225
+            }, 
+            {
+                "height": 18, 
+                "width": 15, 
+                "x": 203, 
+                "y": 221
+            }, 
+            {
+                "height": 25, 
+                "width": 39, 
+                "x": 389, 
+                "y": 226
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_60019.JPEG": {
+        "coordinates": [
+            {
+                "x": -4.414927211608754, 
+                "y": -1.0455746022372434, 
+                "z": -4.124757174658497
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 28, 
+                "width": 64, 
+                "x": 151, 
+                "y": 130
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_60880.JPEG": {
+        "coordinates": [
+            {
+                "x": -23.854769715285716, 
+                "y": 8.99371338550273, 
+                "z": -4.94686987004859
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 33, 
+                "width": 78, 
+                "x": 420, 
+                "y": 112
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_61012.JPEG": {
+        "coordinates": [
+            {
+                "x": 1.5851353032606184, 
+                "y": 19.363211173015753, 
+                "z": 6.783517794490851
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 33, 
+                "width": 59, 
+                "x": 176, 
+                "y": 156
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_6239.JPEG": {
+        "coordinates": [
+            {
+                "x": -17.002042638134732, 
+                "y": 14.621770147526469, 
+                "z": 11.03922826654926
+            }, 
+            {
+                "x": 20.473320268979865, 
+                "y": 3.914475619805877, 
+                "z": 9.063036748035188
+            }, 
+            {
+                "x": -0.5657781475432843, 
+                "y": 18.282487668865052, 
+                "z": 15.26639118835267
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 35, 
+                "width": 26, 
+                "x": 0, 
+                "y": 149
+            }, 
+            {
+                "height": 79, 
+                "width": 143, 
+                "x": 287, 
+                "y": 114
+            }, 
+            {
+                "height": 22, 
+                "width": 32, 
+                "x": 200, 
+                "y": 148
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_64559.JPEG": {
+        "coordinates": [
+            {
+                "x": 12.71226260601769, 
+                "y": 16.19079325198113, 
+                "z": -10.074824942547242
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 156, 
+                "width": 317, 
+                "x": 181, 
+                "y": 117
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_65289.JPEG": {
+        "coordinates": [
+            {
+                "x": 1.7779120666585888, 
+                "y": 8.815253600759014, 
+                "z": -24.162998241790607
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 255, 
+                "width": 212, 
+                "x": 287, 
+                "y": 119
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_68093.JPEG": {
+        "coordinates": [
+            {
+                "x": -26.393758103527645, 
+                "y": 13.136781659003404, 
+                "z": 1.5176176208024046
+            }, 
+            {
+                "x": 8.494441363361604, 
+                "y": 25.45272250994108, 
+                "z": -12.525655696498772
+            }, 
+            {
+                "x": 9.544842533310934, 
+                "y": -3.470997522360329, 
+                "z": -8.549637288058321
+            }, 
+            {
+                "x": 14.122085125141474, 
+                "y": 8.109218078252978, 
+                "z": -14.692807855811253
+            }, 
+            {
+                "x": 26.13932627122109, 
+                "y": 2.318639180446526, 
+                "z": 2.2683560022854774
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 67, 
+                "width": 105, 
+                "x": 123, 
+                "y": 170
+            }, 
+            {
+                "height": 43, 
+                "width": 53, 
+                "x": 446, 
+                "y": 191
+            }, 
+            {
+                "height": 74, 
+                "width": 66, 
+                "x": 126, 
+                "y": 167
+            }, 
+            {
+                "height": 94, 
+                "width": 231, 
+                "x": 182, 
+                "y": 160
+            }, 
+            {
+                "height": 26, 
+                "width": 47, 
+                "x": 1, 
+                "y": 153
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_68732.JPEG": {
+        "coordinates": [
+            {
+                "x": -10.825562923187952, 
+                "y": -2.448886694749902, 
+                "z": 5.925574750472316
+            }, 
+            {
+                "x": -4.982994077090657, 
+                "y": 1.2356259596718062, 
+                "z": 2.563651036688845
+            }, 
+            {
+                "x": -16.923214840913747, 
+                "y": 9.554887040362903, 
+                "z": 15.560111801519014
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 31, 
+                "width": 81, 
+                "x": 346, 
+                "y": 134
+            }, 
+            {
+                "height": 24, 
+                "width": 27, 
+                "x": 222, 
+                "y": 134
+            }, 
+            {
+                "height": 23, 
+                "width": 33, 
+                "x": 306, 
+                "y": 138
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_69426.JPEG": {
+        "coordinates": [
+            {
+                "x": -8.82936177787833, 
+                "y": -0.15918140884286786, 
+                "z": 12.831134147319315
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 53, 
+                "width": 99, 
+                "x": 277, 
+                "y": 154
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_70497.JPEG": {
+        "coordinates": [
+            {
+                "x": 17.582931517361484, 
+                "y": -1.0950313929439248, 
+                "z": -18.370321379210925
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 89, 
+                "width": 165, 
+                "x": 334, 
+                "y": 107
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_70783.JPEG": {
+        "coordinates": [
+            {
+                "x": 21.91185701305958, 
+                "y": 17.17514982573754, 
+                "z": 3.7069576188090285
+            }, 
+            {
+                "x": -1.571652921179721, 
+                "y": 9.767363499257973, 
+                "z": 13.710919116850254
+            }, 
+            {
+                "x": -23.424922368170797, 
+                "y": 0.09710787166326981, 
+                "z": 0.6204525306897821
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 24, 
+                "width": 52, 
+                "x": 396, 
+                "y": 156
+            }, 
+            {
+                "height": 8, 
+                "width": 10, 
+                "x": 450, 
+                "y": 153
+            }, 
+            {
+                "height": 36, 
+                "width": 72, 
+                "x": 242, 
+                "y": 169
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_71689.JPEG": {
+        "coordinates": [
+            {
+                "x": 0.7433753948513729, 
+                "y": -25.347197045445814, 
+                "z": -5.7937902399524726
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 49, 
+                "width": 114, 
+                "x": 6, 
+                "y": 80
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_75642.JPEG": {
+        "coordinates": [
+            {
+                "x": -44.823124998910714, 
+                "y": -12.84182086413087, 
+                "z": 18.007474768184107
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 86, 
+                "width": 159, 
+                "x": 302, 
+                "y": 131
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_76128.JPEG": {
+        "coordinates": [
+            {
+                "x": -0.9505724163363951, 
+                "y": 12.78719883716445, 
+                "z": -10.804050615563373
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 261, 
+                "width": 455, 
+                "x": 24, 
+                "y": 76
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_77393.JPEG": {
+        "coordinates": [
+            {
+                "x": 15.66060838920468, 
+                "y": -6.033398277410806, 
+                "z": -7.1891806736456
+            }, 
+            {
+                "x": 0.6629560229031655, 
+                "y": 29.91241321392469, 
+                "z": 1.7525254145398383
+            }, 
+            {
+                "x": -2.46148944775197, 
+                "y": 11.613722386474072, 
+                "z": -18.132285015463644
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 126, 
+                "width": 202, 
+                "x": 122, 
+                "y": 105
+            }, 
+            {
+                "height": 195, 
+                "width": 168, 
+                "x": 331, 
+                "y": 73
+            }, 
+            {
+                "height": 113, 
+                "width": 186, 
+                "x": 132, 
+                "y": 112
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_77416.JPEG": {
+        "coordinates": [
+            {
+                "x": 1.541388831148037, 
+                "y": 14.067823389236878, 
+                "z": 17.862548924416416
+            }, 
+            {
+                "x": -3.64542816081069, 
+                "y": -6.522874837366237, 
+                "z": -10.129682536876954
+            }, 
+            {
+                "x": -3.0676199179209696, 
+                "y": -10.782757102557948, 
+                "z": -7.6200209374815495
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 15, 
+                "width": 31, 
+                "x": 265, 
+                "y": 169
+            }, 
+            {
+                "height": 41, 
+                "width": 69, 
+                "x": 323, 
+                "y": 155
+            }, 
+            {
+                "height": 33, 
+                "width": 82, 
+                "x": 310, 
+                "y": 151
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_80000.JPEG": {
+        "coordinates": [
+            {
+                "x": -22.4505882571685, 
+                "y": -10.987821748188093, 
+                "z": 0.9695670946745669
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 19, 
+                "width": 38, 
+                "x": 6, 
+                "y": 173
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_81146.JPEG": {
+        "coordinates": [
+            {
+                "x": 4.946769401516335, 
+                "y": 1.8079487833391277, 
+                "z": -20.90187747222293
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 121, 
+                "width": 234, 
+                "x": 66, 
+                "y": 89
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_81340.JPEG": {
+        "coordinates": [
+            {
+                "x": -20.22698607560902, 
+                "y": -5.412784548334358, 
+                "z": -6.345665295742672
+            }, 
+            {
+                "x": 10.815699701271647, 
+                "y": 5.727055786877029, 
+                "z": 8.030837424490965
+            }, 
+            {
+                "x": -24.194686450002564, 
+                "y": -5.247694825351149, 
+                "z": -5.742707758207099
+            }, 
+            {
+                "x": -18.723793751618626, 
+                "y": 6.669061203611481, 
+                "z": 2.4314864888776566
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 82, 
+                "width": 32, 
+                "x": 466, 
+                "y": 106
+            }, 
+            {
+                "height": 27, 
+                "width": 60, 
+                "x": 406, 
+                "y": 84
+            }, 
+            {
+                "height": 98, 
+                "width": 32, 
+                "x": 466, 
+                "y": 101
+            }, 
+            {
+                "height": 11, 
+                "width": 18, 
+                "x": 384, 
+                "y": 84
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_81905.JPEG": {
+        "coordinates": [
+            {
+                "x": -13.979799685654495, 
+                "y": 0.4811600960486888, 
+                "z": -28.58179528732505
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 61, 
+                "width": 75, 
+                "x": 39, 
+                "y": 154
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_82991.JPEG": {
+        "coordinates": [
+            {
+                "x": -5.189284436838792, 
+                "y": 22.703975044812598, 
+                "z": 3.7095350314974502
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 39, 
+                "width": 69, 
+                "x": 356, 
+                "y": 125
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_83099.JPEG": {
+        "coordinates": [
+            {
+                "x": 3.9503153074202912, 
+                "y": -6.907220798898218, 
+                "z": -6.605414217623897
+            }, 
+            {
+                "x": -10.510812116032776, 
+                "y": 14.130438694219912, 
+                "z": -4.055546168402033
+            }, 
+            {
+                "x": -15.21525725225692, 
+                "y": 9.305053983231, 
+                "z": 7.175428461576101
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 20, 
+                "width": 35, 
+                "x": 256, 
+                "y": 141
+            }, 
+            {
+                "height": 19, 
+                "width": 36, 
+                "x": 438, 
+                "y": 135
+            }, 
+            {
+                "height": 18, 
+                "width": 38, 
+                "x": 312, 
+                "y": 149
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_83801.JPEG": {
+        "coordinates": [
+            {
+                "x": -10.818595905485456, 
+                "y": 10.882786652802846, 
+                "z": 9.447800297091845
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 13, 
+                "width": 32, 
+                "x": 10, 
+                "y": 148
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_84900.JPEG": {
+        "coordinates": [
+            {
+                "x": 12.208200520541626, 
+                "y": -16.902483428131347, 
+                "z": -15.434267711528742
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 46, 
+                "width": 54, 
+                "x": 137, 
+                "y": 133
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_85080.JPEG": {
+        "coordinates": [
+            {
+                "x": 8.286281690944607, 
+                "y": 14.640580732636899, 
+                "z": 13.062221771980907
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 51, 
+                "width": 41, 
+                "x": 153, 
+                "y": 132
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_8512.JPEG": {
+        "coordinates": [
+            {
+                "x": -14.482487521083675, 
+                "y": -14.829028684510842, 
+                "z": -5.247152471224292
+            }, 
+            {
+                "x": -6.713274462835696, 
+                "y": -10.153760080424414, 
+                "z": -14.409877087536302
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 98, 
+                "width": 55, 
+                "x": 444, 
+                "y": 36
+            }, 
+            {
+                "height": 68, 
+                "width": 60, 
+                "x": 0, 
+                "y": 61
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_85748.JPEG": {
+        "coordinates": [
+            {
+                "x": -4.919146400209634, 
+                "y": -3.2479242994255406, 
+                "z": 8.628284645796507
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 52, 
+                "width": 282, 
+                "x": 1, 
+                "y": 0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_87035.JPEG": {
+        "coordinates": [
+            {
+                "x": -9.456244169298273, 
+                "y": -14.619766544722536, 
+                "z": -10.886781901614427
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 56, 
+                "width": 54, 
+                "x": 0, 
+                "y": 150
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_87065.JPEG": {
+        "coordinates": [
+            {
+                "x": -13.589895193358526, 
+                "y": 10.166051883027757, 
+                "z": -28.963081721445818
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 112, 
+                "width": 188, 
+                "x": 255, 
+                "y": 195
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_89284.JPEG": {
+        "coordinates": [
+            {
+                "x": -12.820101121343091, 
+                "y": -3.0201286487978565, 
+                "z": -9.448939840852445
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 53, 
+                "width": 76, 
+                "x": 397, 
+                "y": 154
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_89285.JPEG": {
+        "coordinates": [
+            {
+                "x": 0.9260478866406812, 
+                "y": -8.138893944614455, 
+                "z": -19.020347817098365
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 61, 
+                "width": 80, 
+                "x": 278, 
+                "y": 161
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_90656.JPEG": {
+        "coordinates": [
+            {
+                "x": -17.96838951866007, 
+                "y": 12.14056205465399, 
+                "z": -17.023332173762583
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 35, 
+                "width": 74, 
+                "x": 260, 
+                "y": 121
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_92143.JPEG": {
+        "coordinates": [
+            {
+                "x": 17.491946513639835, 
+                "y": 11.035389769918613, 
+                "z": -9.895205133170066
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 298, 
+                "width": 129, 
+                "x": 0, 
+                "y": 34
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_94153.JPEG": {
+        "coordinates": [
+            {
+                "x": 12.499853179381, 
+                "y": -2.5942187547979234, 
+                "z": -16.493866431377796
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 29, 
+                "width": 56, 
+                "x": 156, 
+                "y": 80
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_94398.JPEG": {
+        "coordinates": [
+            {
+                "x": -14.795843795251514, 
+                "y": 20.49527643098418, 
+                "z": -2.255774454567486
+            }, 
+            {
+                "x": -15.230684035777124, 
+                "y": 2.490271446137542, 
+                "z": 5.869539784002667
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 40, 
+                "width": 69, 
+                "x": 376, 
+                "y": 196
+            }, 
+            {
+                "height": 15, 
+                "width": 43, 
+                "x": 261, 
+                "y": 212
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_94652.JPEG": {
+        "coordinates": [
+            {
+                "x": 4.128187115580703, 
+                "y": 11.733367497994083, 
+                "z": -16.08269713634514
+            }, 
+            {
+                "x": 8.239285886092489, 
+                "y": 12.890704062096928, 
+                "z": -14.419090820325097
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 105, 
+                "width": 217, 
+                "x": 37, 
+                "y": 122
+            }, 
+            {
+                "height": 137, 
+                "width": 246, 
+                "x": 45, 
+                "y": 99
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_94862.JPEG": {
+        "coordinates": [
+            {
+                "x": -13.743113811617063, 
+                "y": -27.495751114224905, 
+                "z": -0.3320269352240971
+            }, 
+            {
+                "x": -6.094906006543937, 
+                "y": 17.91640117016119, 
+                "z": -15.567046259447118
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 77, 
+                "width": 135, 
+                "x": 364, 
+                "y": 144
+            }, 
+            {
+                "height": 79, 
+                "width": 162, 
+                "x": 337, 
+                "y": 143
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636", 
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_95553.JPEG": {
+        "coordinates": [
+            {
+                "x": 13.585252628804167, 
+                "y": 21.999484735620378, 
+                "z": -4.827534086983429
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 72, 
+                "width": 208, 
+                "x": 45, 
+                "y": 112
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_96305.JPEG": {
+        "coordinates": [
+            {
+                "x": -4.286299483285226, 
+                "y": 26.35429852274017, 
+                "z": 9.339130904132773
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 60, 
+                "width": 107, 
+                "x": 202, 
+                "y": 179
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_9690.JPEG": {
+        "coordinates": [
+            {
+                "x": -18.551919465264238, 
+                "y": 15.987155668681483, 
+                "z": 2.6739558476108747
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 18, 
+                "width": 29, 
+                "x": 212, 
+                "y": 93
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_96943.JPEG": {
+        "coordinates": [
+            {
+                "x": 13.917747366883932, 
+                "y": -5.005821252981046, 
+                "z": -21.59665228643484
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 91, 
+                "width": 170, 
+                "x": 329, 
+                "y": 191
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_96983.JPEG": {
+        "coordinates": [
+            {
+                "x": -26.690834817673604, 
+                "y": -3.1064799854874168, 
+                "z": 15.956008821719383
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 332, 
+                "width": 211, 
+                "x": 0, 
+                "y": 0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/ImageNet/images/n08518171/n08518171_98097.JPEG": {
+        "coordinates": [
+            {
+                "x": 11.138962783471712, 
+                "y": -32.72451669072745, 
+                "z": 5.401101458423686
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 105, 
+                "width": 106, 
+                "x": 9, 
+                "y": 187
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_28_11_2017_124636"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }
+}

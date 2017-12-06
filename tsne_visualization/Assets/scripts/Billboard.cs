@@ -9,9 +9,22 @@ public class Billboard : MonoBehaviour
 
 	void Update()
 	{
+		lookAwayFromCam();
+    }
 
+	private void lookCamDirection()
+	{
+		// all images have same angle
+		Vector3 camFaceDirection = transform.position + Camera.main.transform.rotation * Vector3.forward;
+		transform.LookAt(camFaceDirection, Vector3.up);
+	}
+
+	public void lookAwayFromCam()
+	{
+		//all images look at a point behind the camera
 		Vector3 behindCam = Camera.main.transform.position - Camera.main.transform.forward * cameraOffestFactor;
-        transform.LookAt(behindCam, Vector3.up);
+		Vector3 fromCam = -1 * (behindCam - transform.position).normalized;
+		transform.forward = fromCam;
 	}
 }
 
