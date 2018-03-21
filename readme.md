@@ -17,7 +17,7 @@ $ git clone --recursive http://lnv-3201/machinelearning/tsne_image_visualization
 
 This project is organized using the following modules which manage the whole data processing pipeline:
 
-![Project Organisation Graphics](http://url/to/img.png)
+![Project Organisation Graphics](http://lnv-3201.sb.dfki.de/machinelearning/tsne_image_visualization/raw/master/improved_pipeline.png)
 
 Preprocessing in Python and visualization in Unity are two separated processes. First, from image data, the coordinates computed by the Neural Network and by the feature reduction processes get created and saved to a .json file. Afterwards, Unity uses this file to load and position the images in a 3D space.
 
