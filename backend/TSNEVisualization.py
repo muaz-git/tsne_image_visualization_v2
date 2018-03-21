@@ -7,8 +7,8 @@ import impl.DataProvision.PatchManagement
 
 if __name__ == "__main__":
 
-    image_folder = "data/ImageNet/images"
-    annotation_folder = "data/ImageNet/annotations"
+    # image_folder = "data/ImageNet/images"
+    # annotation_folder = "data/ImageNet/annotations"
 
     network_name = "AlexNet"
     layer_name = "fc8"
