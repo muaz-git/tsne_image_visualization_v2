@@ -1,0 +1,2544 @@
+{
+    "data/POET/pascal_mini/aeroplane_2008_000021.jpg": {
+        "coordinates": [
+            {
+                "x": -10.332889067435838, 
+                "y": -13.81206120527872, 
+                "z": -10.377154245539339
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 140.0, 
+                "width": 461.0, 
+                "x": 14.0, 
+                "y": 148.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_000033.jpg": {
+        "coordinates": [
+            {
+                "x": -0.28161898780841527, 
+                "y": -13.714425231436598, 
+                "z": -14.271398512739905
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 196.0, 
+                "width": 372.0, 
+                "x": 104.0, 
+                "y": 61.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_000037.jpg": {
+        "coordinates": [
+            {
+                "x": -1.6013173283798758, 
+                "y": -10.61832018154026, 
+                "z": -10.666623729512693
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 125.0, 
+                "width": 403.0, 
+                "x": 47.0, 
+                "y": 157.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_000064.jpg": {
+        "coordinates": [
+            {
+                "x": -11.729042541938995, 
+                "y": -11.799616224153306, 
+                "z": -14.8214235369869
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 309.0, 
+                "width": 374.0, 
+                "x": 1.0, 
+                "y": 152.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_000151.jpg": {
+        "coordinates": [
+            {
+                "x": 14.115157525239068, 
+                "y": 4.46193570310184, 
+                "z": 8.916205853507915
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 36.0, 
+                "width": 31.0, 
+                "x": 244.0, 
+                "y": 225.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_000197.jpg": {
+        "coordinates": [
+            {
+                "x": -0.7596762800515228, 
+                "y": -9.92744086106348, 
+                "z": -9.513144294438092
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 69.0, 
+                "width": 135.0, 
+                "x": 95.0, 
+                "y": 134.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_000251.jpg": {
+        "coordinates": [
+            {
+                "x": -6.83410162630094, 
+                "y": -13.294599908567276, 
+                "z": -12.46074787870358
+            }, 
+            {
+                "x": -12.29393252534153, 
+                "y": 6.122433866996858, 
+                "z": -1.4094775066673122
+            }, 
+            {
+                "x": -4.95252575915562, 
+                "y": -9.119125072065032, 
+                "z": -12.72923567141083
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 231.0, 
+                "width": 386.0, 
+                "x": 24.0, 
+                "y": 14.0
+            }, 
+            {
+                "height": 118.0, 
+                "width": 287.0, 
+                "x": 213.0, 
+                "y": 53.0
+            }, 
+            {
+                "height": 73.0, 
+                "width": 132.0, 
+                "x": 88.0, 
+                "y": 93.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_000291.jpg": {
+        "coordinates": [
+            {
+                "x": 4.294610385750337, 
+                "y": 9.21672960892733, 
+                "z": 3.9300692311607843
+            }, 
+            {
+                "x": -4.863267697625719, 
+                "y": -4.961050107048596, 
+                "z": 3.0829838011948243
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 55.0, 
+                "width": 215.0, 
+                "x": 2.0, 
+                "y": 196.0
+            }, 
+            {
+                "height": 22.0, 
+                "width": 47.0, 
+                "x": 392.0, 
+                "y": 198.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_000367.jpg": {
+        "coordinates": [
+            {
+                "x": -7.427829022003534, 
+                "y": 3.1170195504060745, 
+                "z": 9.902552315394528
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 356.0, 
+                "width": 499.0, 
+                "x": 1.0, 
+                "y": 1.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_000585.jpg": {
+        "coordinates": [
+            {
+                "x": -9.135175060161876, 
+                "y": -12.313237039662038, 
+                "z": -15.351634036873802
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 370.0, 
+                "width": 498.0, 
+                "x": 1.0, 
+                "y": 5.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_000716.jpg": {
+        "coordinates": [
+            {
+                "x": -4.731931090817548, 
+                "y": -9.929731134652165, 
+                "z": -15.661392202673596
+            }, 
+            {
+                "x": -6.031731171957784, 
+                "y": -8.75546363384803, 
+                "z": -15.359045234128834
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 93.0, 
+                "width": 272.0, 
+                "x": 5.0, 
+                "y": 82.0
+            }, 
+            {
+                "height": 66.0, 
+                "width": 185.0, 
+                "x": 298.0, 
+                "y": 116.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_000756.jpg": {
+        "coordinates": [
+            {
+                "x": -4.889226769216701, 
+                "y": -9.797238166670983, 
+                "z": -18.00113173121163
+            }, 
+            {
+                "x": -8.310238194680643, 
+                "y": -13.476292287746158, 
+                "z": -16.486252894458193
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 38.0, 
+                "width": 108.0, 
+                "x": 368.0, 
+                "y": 215.0
+            }, 
+            {
+                "height": 166.0, 
+                "width": 424.0, 
+                "x": 1.0, 
+                "y": 99.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_000804.jpg": {
+        "coordinates": [
+            {
+                "x": -8.099016945698695, 
+                "y": -13.451710862006832, 
+                "z": -13.992020075702865
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 198.0, 
+                "width": 406.0, 
+                "x": 60.0, 
+                "y": 98.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_000805.jpg": {
+        "coordinates": [
+            {
+                "x": -9.584532851882052, 
+                "y": -13.231239256609033, 
+                "z": -14.254613098228702
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 291.0, 
+                "width": 437.0, 
+                "x": 44.0, 
+                "y": 16.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_000883.jpg": {
+        "coordinates": [
+            {
+                "x": -8.392703691072922, 
+                "y": -3.120756148248205, 
+                "z": 8.895985075238878
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 341.0, 
+                "width": 499.0, 
+                "x": 1.0, 
+                "y": 1.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_001054.jpg": {
+        "coordinates": [
+            {
+                "x": -5.304490428192847, 
+                "y": -10.77552370256012, 
+                "z": -8.286337911638622
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 253.0, 
+                "width": 499.0, 
+                "x": 1.0, 
+                "y": 55.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_001227.jpg": {
+        "coordinates": [
+            {
+                "x": -6.519955805442461, 
+                "y": 2.265492018582312, 
+                "z": 10.379260185148011
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 243.0, 
+                "width": 442.0, 
+                "x": 1.0, 
+                "y": 132.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_001380.jpg": {
+        "coordinates": [
+            {
+                "x": -3.9905385939834894, 
+                "y": -12.209224466983983, 
+                "z": -12.735611376208922
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 137.0, 
+                "width": 357.0, 
+                "x": 66.0, 
+                "y": 18.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_001448.jpg": {
+        "coordinates": [
+            {
+                "x": -0.4204141206992765, 
+                "y": -12.186916092741262, 
+                "z": -7.3547056362134535
+            }, 
+            {
+                "x": -0.604466283789476, 
+                "y": -12.325963519125041, 
+                "z": -8.90755118525067
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 43.0, 
+                "width": 137.0, 
+                "x": 332.0, 
+                "y": 126.0
+            }, 
+            {
+                "height": 80.0, 
+                "width": 297.0, 
+                "x": 1.0, 
+                "y": 89.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_001468.jpg": {
+        "coordinates": [
+            {
+                "x": -6.40933666239586, 
+                "y": -12.657749996775339, 
+                "z": -10.151161035316537
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 239.0, 
+                "width": 491.0, 
+                "x": 9.0, 
+                "y": 120.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_001546.jpg": {
+        "coordinates": [
+            {
+                "x": -2.8660450988664787, 
+                "y": -10.609221039511187, 
+                "z": -14.291191690378252
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 175.0, 
+                "width": 466.0, 
+                "x": 29.0, 
+                "y": 41.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_001719.jpg": {
+        "coordinates": [
+            {
+                "x": -1.607120871059263, 
+                "y": -12.968517366104797, 
+                "z": -11.48859360842002
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 199.0, 
+                "width": 327.0, 
+                "x": 49.0, 
+                "y": 21.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_001774.jpg": {
+        "coordinates": [
+            {
+                "x": 19.490490122536507, 
+                "y": 4.85522656564074, 
+                "z": -0.4190803277330458
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 33.0, 
+                "width": 37.0, 
+                "x": 219.0, 
+                "y": 170.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_001801.jpg": {
+        "coordinates": [
+            {
+                "x": -10.972826740732664, 
+                "y": -11.716205185729049, 
+                "z": -10.273752705722378
+            }, 
+            {
+                "x": 6.4257255828835085, 
+                "y": -13.44215629677029, 
+                "z": -8.758328112910101
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 115.0, 
+                "width": 388.0, 
+                "x": 1.0, 
+                "y": 119.0
+            }, 
+            {
+                "height": 61.0, 
+                "width": 183.0, 
+                "x": 317.0, 
+                "y": 145.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_001805.jpg": {
+        "coordinates": [
+            {
+                "x": -10.413641822322631, 
+                "y": -12.117985671123039, 
+                "z": -11.427683162898283
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 213.0, 
+                "width": 490.0, 
+                "x": 10.0, 
+                "y": 89.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_001971.jpg": {
+        "coordinates": [
+            {
+                "x": -5.560570472008981, 
+                "y": -10.710557564829923, 
+                "z": -16.72037424277418
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 69.0, 
+                "width": 263.0, 
+                "x": 132.0, 
+                "y": 125.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_001985.jpg": {
+        "coordinates": [
+            {
+                "x": 13.598573522884172, 
+                "y": -0.11562293858526959, 
+                "z": 5.79329023313299
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 12.0, 
+                "width": 35.0, 
+                "x": 187.0, 
+                "y": 102.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_002000.jpg": {
+        "coordinates": [
+            {
+                "x": -7.770922150491882, 
+                "y": -6.915157415792053, 
+                "z": -9.586056962995874
+            }, 
+            {
+                "x": 10.795012846733623, 
+                "y": -5.317395652305661, 
+                "z": 0.9465544023364044
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 210.0, 
+                "width": 424.0, 
+                "x": 33.0, 
+                "y": 84.0
+            }, 
+            {
+                "height": 34.0, 
+                "width": 63.0, 
+                "x": 420.0, 
+                "y": 165.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_002138.jpg": {
+        "coordinates": [
+            {
+                "x": -9.419523683451873, 
+                "y": -10.493396228091948, 
+                "z": -13.369867331458725
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 142.0, 
+                "width": 422.0, 
+                "x": 1.0, 
+                "y": 99.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_002151.jpg": {
+        "coordinates": [
+            {
+                "x": -8.647555184007846, 
+                "y": -9.93594054228959, 
+                "z": -10.84257855233063
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 190.0, 
+                "width": 497.0, 
+                "x": 3.0, 
+                "y": 52.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_002195.jpg": {
+        "coordinates": [
+            {
+                "x": 15.09456396887736, 
+                "y": -7.293767895174857, 
+                "z": 1.6937585560209585
+            }, 
+            {
+                "x": 14.779044919559695, 
+                "y": -4.012339847353903, 
+                "z": 0.6654665070846778
+            }, 
+            {
+                "x": 15.558951026576455, 
+                "y": -4.293011134319267, 
+                "z": 2.637513297491714
+            }, 
+            {
+                "x": 12.126857826261668, 
+                "y": -5.068918089028743, 
+                "z": 1.1271349380016653
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 34.0, 
+                "width": 67.0, 
+                "x": 373.0, 
+                "y": 10.0
+            }, 
+            {
+                "height": 30.0, 
+                "width": 61.0, 
+                "x": 277.0, 
+                "y": 10.0
+            }, 
+            {
+                "height": 25.0, 
+                "width": 55.0, 
+                "x": 197.0, 
+                "y": 11.0
+            }, 
+            {
+                "height": 32.0, 
+                "width": 64.0, 
+                "x": 87.0, 
+                "y": 7.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_002221.jpg": {
+        "coordinates": [
+            {
+                "x": -1.0946962187021736, 
+                "y": -12.990065154171067, 
+                "z": -14.57771761213961
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 129.0, 
+                "width": 260.0, 
+                "x": 121.0, 
+                "y": 125.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_002358.jpg": {
+        "coordinates": [
+            {
+                "x": -7.762108817735308, 
+                "y": -9.749201233858676, 
+                "z": -14.661079331562362
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 136.0, 
+                "width": 481.0, 
+                "x": 8.0, 
+                "y": 87.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_002454.jpg": {
+        "coordinates": [
+            {
+                "x": 2.9752711692447855, 
+                "y": -10.769489175064933, 
+                "z": -5.9518468471019865
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 194.0, 
+                "width": 499.0, 
+                "x": 1.0, 
+                "y": 139.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_002551.jpg": {
+        "coordinates": [
+            {
+                "x": -0.5628089051884129, 
+                "y": 8.236387338222874, 
+                "z": 12.230259348152167
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 201.0, 
+                "width": 499.0, 
+                "x": 1.0, 
+                "y": 174.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_002673.jpg": {
+        "coordinates": [
+            {
+                "x": -9.46461098871455, 
+                "y": -15.147497636638974, 
+                "z": -11.279482966508459
+            }, 
+            {
+                "x": -9.199836199185171, 
+                "y": -13.841682329944911, 
+                "z": -11.473898209044377
+            }, 
+            {
+                "x": 12.938447858588244, 
+                "y": -5.314210285664095, 
+                "z": -1.3515442427615636
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 91.0, 
+                "width": 212.0, 
+                "x": 228.0, 
+                "y": 140.0
+            }, 
+            {
+                "height": 105.0, 
+                "width": 244.0, 
+                "x": 18.0, 
+                "y": 132.0
+            }, 
+            {
+                "height": 36.0, 
+                "width": 65.0, 
+                "x": 435.0, 
+                "y": 177.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_002698.jpg": {
+        "coordinates": [
+            {
+                "x": 0.21714606178817153, 
+                "y": -8.442781810260382, 
+                "z": -8.650624913729448
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 66.0, 
+                "width": 125.0, 
+                "x": 156.0, 
+                "y": 178.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_002719.jpg": {
+        "coordinates": [
+            {
+                "x": 0.5991304431504035, 
+                "y": -12.55208409052219, 
+                "z": -13.547753921158364
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 216.0, 
+                "width": 265.0, 
+                "x": 210.0, 
+                "y": 34.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_002977.jpg": {
+        "coordinates": [
+            {
+                "x": 3.1401783478866743, 
+                "y": -12.121873543752807, 
+                "z": -0.6490585136563207
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 374.0, 
+                "width": 493.0, 
+                "x": 1.0, 
+                "y": 1.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003033.jpg": {
+        "coordinates": [
+            {
+                "x": 5.758249913692041, 
+                "y": -12.696558866028159, 
+                "z": 2.17491731357741
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 100.0, 
+                "width": 489.0, 
+                "x": 11.0, 
+                "y": 36.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003041.jpg": {
+        "coordinates": [
+            {
+                "x": -2.493794467236534, 
+                "y": -10.375977666276043, 
+                "z": -3.093087225304534
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 231.0, 
+                "width": 480.0, 
+                "x": 20.0, 
+                "y": 86.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003059.jpg": {
+        "coordinates": [
+            {
+                "x": 6.411147918071184, 
+                "y": -6.311313162619016, 
+                "z": -0.14802473554228243
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 60.0, 
+                "width": 127.0, 
+                "x": 144.0, 
+                "y": 115.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003155.jpg": {
+        "coordinates": [
+            {
+                "x": -6.997509948383895, 
+                "y": -8.207589031916816, 
+                "z": -10.391574528482879
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 154.0, 
+                "width": 497.0, 
+                "x": 2.0, 
+                "y": 112.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003189.jpg": {
+        "coordinates": [
+            {
+                "x": -1.9618196588149217, 
+                "y": -7.00914908989798, 
+                "z": -9.187355915960525
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 206.0, 
+                "width": 471.0, 
+                "x": 3.0, 
+                "y": 85.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003196.jpg": {
+        "coordinates": [
+            {
+                "x": -1.7442513314855599, 
+                "y": -10.753290902921774, 
+                "z": -8.15447586455154
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 91.0, 
+                "width": 251.0, 
+                "x": 98.0, 
+                "y": 62.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003261.jpg": {
+        "coordinates": [
+            {
+                "x": -9.160850294530178, 
+                "y": -9.505895480169311, 
+                "z": -15.906699834463103
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 155.0, 
+                "width": 473.0, 
+                "x": 17.0, 
+                "y": 68.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003369.jpg": {
+        "coordinates": [
+            {
+                "x": -5.450624885369647, 
+                "y": -13.197275342216424, 
+                "z": -16.313687364846658
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 168.0, 
+                "width": 499.0, 
+                "x": 1.0, 
+                "y": 104.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003423.jpg": {
+        "coordinates": [
+            {
+                "x": -10.680966298918348, 
+                "y": -14.119502115705744, 
+                "z": -15.464714185939751
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 235.0, 
+                "width": 499.0, 
+                "x": 1.0, 
+                "y": 40.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003475.jpg": {
+        "coordinates": [
+            {
+                "x": -17.959091729555407, 
+                "y": -0.948121904400296, 
+                "z": 2.4351229705520243
+            }, 
+            {
+                "x": -0.18348839197227895, 
+                "y": -12.785229992898207, 
+                "z": -0.43967943072389554
+            }, 
+            {
+                "x": -7.491590371749809, 
+                "y": -1.6287266343555795, 
+                "z": 8.389465381718807
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 23.0, 
+                "width": 106.0, 
+                "x": 21.0, 
+                "y": 81.0
+            }, 
+            {
+                "height": 44.0, 
+                "width": 177.0, 
+                "x": 95.0, 
+                "y": 107.0
+            }, 
+            {
+                "height": 90.0, 
+                "width": 341.0, 
+                "x": 151.0, 
+                "y": 130.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003478.jpg": {
+        "coordinates": [
+            {
+                "x": -7.75908659604738, 
+                "y": -8.555305307673756, 
+                "z": -12.013813039664551
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 75.0, 
+                "width": 219.0, 
+                "x": 1.0, 
+                "y": 46.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003575.jpg": {
+        "coordinates": [
+            {
+                "x": -10.53509042257458, 
+                "y": -12.388037424454215, 
+                "z": -13.076955423865082
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 203.0, 
+                "width": 499.0, 
+                "x": 1.0, 
+                "y": 90.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003655.jpg": {
+        "coordinates": [
+            {
+                "x": 5.189541953342786, 
+                "y": -13.409515869020664, 
+                "z": 0.8621523812806299
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 90.0, 
+                "width": 416.0, 
+                "x": 1.0, 
+                "y": 173.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003673.jpg": {
+        "coordinates": [
+            {
+                "x": -7.410217376133229, 
+                "y": -11.127175689166888, 
+                "z": -16.33932595744695
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 133.0, 
+                "width": 470.0, 
+                "x": 27.0, 
+                "y": 64.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003688.jpg": {
+        "coordinates": [
+            {
+                "x": -6.944307429683752, 
+                "y": -11.057384811966413, 
+                "z": -11.26281229775516
+            }, 
+            {
+                "x": 9.813859389166184, 
+                "y": -8.383991399074008, 
+                "z": 3.4136276810220982
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 136.0, 
+                "width": 351.0, 
+                "x": 87.0, 
+                "y": 146.0
+            }, 
+            {
+                "height": 60.0, 
+                "width": 80.0, 
+                "x": 420.0, 
+                "y": 207.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003703.jpg": {
+        "coordinates": [
+            {
+                "x": -8.932066736740856, 
+                "y": -11.156717861845891, 
+                "z": -17.028285560254904
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 134.0, 
+                "width": 473.0, 
+                "x": 15.0, 
+                "y": 83.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003729.jpg": {
+        "coordinates": [
+            {
+                "x": -8.610487650558042, 
+                "y": -11.3313917681497, 
+                "z": -6.76357820854514
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 147.0, 
+                "width": 409.0, 
+                "x": 46.0, 
+                "y": 54.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003743.jpg": {
+        "coordinates": [
+            {
+                "x": -8.300267102509244, 
+                "y": -11.759910022248032, 
+                "z": -9.42515061487355
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 161.0, 
+                "width": 379.0, 
+                "x": 93.0, 
+                "y": 137.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003744.jpg": {
+        "coordinates": [
+            {
+                "x": 4.976516331222052, 
+                "y": -11.250564905822763, 
+                "z": -4.577705780712735
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 307.0, 
+                "width": 499.0, 
+                "x": 1.0, 
+                "y": 68.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003788.jpg": {
+        "coordinates": [
+            {
+                "x": -7.827264691469982, 
+                "y": -8.94767987217985, 
+                "z": -16.900323394856162
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 150.0, 
+                "width": 475.0, 
+                "x": 13.0, 
+                "y": 86.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003876.jpg": {
+        "coordinates": [
+            {
+                "x": -3.2387636797867736, 
+                "y": -12.67744763979252, 
+                "z": -16.208737418373065
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 101.0, 
+                "width": 495.0, 
+                "x": 3.0, 
+                "y": 112.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003905.jpg": {
+        "coordinates": [
+            {
+                "x": -6.076219667172928, 
+                "y": -9.556120384813248, 
+                "z": -12.079828106867529
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 220.0, 
+                "width": 484.0, 
+                "x": 7.0, 
+                "y": 41.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003926.jpg": {
+        "coordinates": [
+            {
+                "x": -7.941267877179698, 
+                "y": -7.360723137108054, 
+                "z": -14.360176644857228
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 173.0, 
+                "width": 488.0, 
+                "x": 1.0, 
+                "y": 51.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_003976.jpg": {
+        "coordinates": [
+            {
+                "x": -7.790125654213568, 
+                "y": -10.33694166015773, 
+                "z": -18.18474309421877
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 134.0, 
+                "width": 481.0, 
+                "x": 13.0, 
+                "y": 90.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_004000.jpg": {
+        "coordinates": [
+            {
+                "x": -8.507314164619975, 
+                "y": -10.016360203682265, 
+                "z": -6.917477068629971
+            }, 
+            {
+                "x": -9.58835779121704, 
+                "y": -11.35217914547851, 
+                "z": -8.410588237545305
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 197.0, 
+                "width": 475.0, 
+                "x": 25.0, 
+                "y": 63.0
+            }, 
+            {
+                "height": 67.0, 
+                "width": 163.0, 
+                "x": 81.0, 
+                "y": 139.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_004030.jpg": {
+        "coordinates": [
+            {
+                "x": -24.511813634678912, 
+                "y": 16.767167713598838, 
+                "z": -29.538253688130517
+            }, 
+            {
+                "x": -22.154351387858302, 
+                "y": 17.016155202941064, 
+                "z": 2.9044631678962904
+            }, 
+            {
+                "x": -6.479829877573863, 
+                "y": 30.393494508071424, 
+                "z": -9.25175500936538
+            }, 
+            {
+                "x": 21.056002856498214, 
+                "y": 10.142125824031035, 
+                "z": -22.97996490014704
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 55.0, 
+                "width": 81.0, 
+                "x": 135.0, 
+                "y": 96.0
+            }, 
+            {
+                "height": 54.0, 
+                "width": 79.0, 
+                "x": 187.0, 
+                "y": 178.0
+            }, 
+            {
+                "height": 53.0, 
+                "width": 73.0, 
+                "x": 297.0, 
+                "y": 196.0
+            }, 
+            {
+                "height": 57.0, 
+                "width": 82.0, 
+                "x": 113.0, 
+                "y": 234.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_004100.jpg": {
+        "coordinates": [
+            {
+                "x": 4.484624828101472, 
+                "y": -13.17082620991336, 
+                "z": -9.052052179364884
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 108.0, 
+                "width": 464.0, 
+                "x": 36.0, 
+                "y": 92.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_004138.jpg": {
+        "coordinates": [
+            {
+                "x": 0.002825103222277636, 
+                "y": -14.680483067961317, 
+                "z": -15.518272542817448
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 116.0, 
+                "width": 300.0, 
+                "x": 116.0, 
+                "y": 150.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_004165.jpg": {
+        "coordinates": [
+            {
+                "x": -9.323612357837218, 
+                "y": -8.79690043902434, 
+                "z": -12.441410701685014
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 137.0, 
+                "width": 399.0, 
+                "x": 41.0, 
+                "y": 107.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_004190.jpg": {
+        "coordinates": [
+            {
+                "x": -9.739480988527687, 
+                "y": -9.500792245276745, 
+                "z": -7.4034890277499095
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 47.0, 
+                "width": 157.0, 
+                "x": 152.0, 
+                "y": 142.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_004239.jpg": {
+        "coordinates": [
+            {
+                "x": -3.912504050094471, 
+                "y": -7.789708987906417, 
+                "z": -11.17449900740907
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 93.0, 
+                "width": 285.0, 
+                "x": 146.0, 
+                "y": 158.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_004348.jpg": {
+        "coordinates": [
+            {
+                "x": -6.9959525995485965, 
+                "y": -8.567634111646388, 
+                "z": -6.168564275109664
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 156.0, 
+                "width": 480.0, 
+                "x": 20.0, 
+                "y": 79.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_004378.jpg": {
+        "coordinates": [
+            {
+                "x": -7.955519037626656, 
+                "y": -4.608638634858231, 
+                "z": -9.401159751470852
+            }, 
+            {
+                "x": 13.75117012238504, 
+                "y": 3.331922221384291, 
+                "z": 4.325826984773071
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 184.0, 
+                "width": 301.0, 
+                "x": 133.0, 
+                "y": 24.0
+            }, 
+            {
+                "height": 28.0, 
+                "width": 104.0, 
+                "x": 294.0, 
+                "y": 214.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_004406.jpg": {
+        "coordinates": [
+            {
+                "x": -4.731165578057327, 
+                "y": -11.69723241132588, 
+                "z": -10.998732518804342
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 192.0, 
+                "width": 447.0, 
+                "x": 53.0, 
+                "y": 74.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_004433.jpg": {
+        "coordinates": [
+            {
+                "x": 17.93461227612277, 
+                "y": 0.02123685044444064, 
+                "z": 4.1089450117512
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 17.0, 
+                "width": 58.0, 
+                "x": 200.0, 
+                "y": 195.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_004532.jpg": {
+        "coordinates": [
+            {
+                "x": -1.6070446782543213, 
+                "y": -9.970635627430006, 
+                "z": -7.072678449139025
+            }, 
+            {
+                "x": -8.293851122199804, 
+                "y": -12.594177249345252, 
+                "z": -17.739924283025765
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 35.0, 
+                "width": 75.0, 
+                "x": 81.0, 
+                "y": 17.0
+            }, 
+            {
+                "height": 156.0, 
+                "width": 371.0, 
+                "x": 129.0, 
+                "y": 117.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_004605.jpg": {
+        "coordinates": [
+            {
+                "x": -7.71224588438365, 
+                "y": -13.075724065739006, 
+                "z": -10.75918864026347
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 171.0, 
+                "width": 431.0, 
+                "x": 32.0, 
+                "y": 52.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_004630.jpg": {
+        "coordinates": [
+            {
+                "x": -7.903046838379329, 
+                "y": -11.76715040402552, 
+                "z": -14.100122625990172
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 274.0, 
+                "width": 499.0, 
+                "x": 1.0, 
+                "y": 1.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_004631.jpg": {
+        "coordinates": [
+            {
+                "x": -7.105279225093551, 
+                "y": -10.8775219625239, 
+                "z": -12.991388624088781
+            }, 
+            {
+                "x": -6.182344954205807, 
+                "y": -10.309133829184136, 
+                "z": -14.132514806719287
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 150.0, 
+                "width": 458.0, 
+                "x": 35.0, 
+                "y": 53.0
+            }, 
+            {
+                "height": 79.0, 
+                "width": 198.0, 
+                "x": 1.0, 
+                "y": 120.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_004646.jpg": {
+        "coordinates": [
+            {
+                "x": 3.4652785091298, 
+                "y": -12.01886368162839, 
+                "z": -3.058821818596555
+            }, 
+            {
+                "x": -7.591612053699658, 
+                "y": -4.606375967714693, 
+                "z": -7.193506401622046
+            }, 
+            {
+                "x": 4.1651694476130015, 
+                "y": 8.852740506068933, 
+                "z": 5.328043791359293
+            }, 
+            {
+                "x": -9.99881037141007, 
+                "y": 6.285518602116087, 
+                "z": 6.022267143160236
+            }, 
+            {
+                "x": -6.312905218380025, 
+                "y": 4.211356272061038, 
+                "z": 7.745717676949655
+            }, 
+            {
+                "x": 1.8726462275283513, 
+                "y": 7.230388061558388, 
+                "z": 3.901923970200488
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 332.0, 
+                "width": 404.0, 
+                "x": 96.0, 
+                "y": 1.0
+            }, 
+            {
+                "height": 86.0, 
+                "width": 267.0, 
+                "x": 1.0, 
+                "y": 48.0
+            }, 
+            {
+                "height": 51.0, 
+                "width": 242.0, 
+                "x": 127.0, 
+                "y": 1.0
+            }, 
+            {
+                "height": 37.0, 
+                "width": 114.0, 
+                "x": 386.0, 
+                "y": 116.0
+            }, 
+            {
+                "height": 185.0, 
+                "width": 155.0, 
+                "x": 1.0, 
+                "y": 124.0
+            }, 
+            {
+                "height": 44.0, 
+                "width": 112.0, 
+                "x": 7.0, 
+                "y": 19.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }, 
+    "data/POET/pascal_mini/aeroplane_2008_004648.jpg": {
+        "coordinates": [
+            {
+                "x": -8.042805330689626, 
+                "y": 5.06607159158416, 
+                "z": 5.274198608914058
+            }, 
+            {
+                "x": -7.3827451422189805, 
+                "y": -5.765254570784959, 
+                "z": -7.7074544813491705
+            }, 
+            {
+                "x": 4.470405481022622, 
+                "y": 9.318320922561067, 
+                "z": 2.8479908084970966
+            }, 
+            {
+                "x": 2.4848133890909723, 
+                "y": 8.870861332304179, 
+                "z": 5.484422300149695
+            }, 
+            {
+                "x": 3.226261138243769, 
+                "y": 9.308362148682576, 
+                "z": 6.6088377210861875
+            }, 
+            {
+                "x": -8.670311328764065, 
+                "y": 6.159527426409312, 
+                "z": 4.12409967219441
+            }
+        ], 
+        "croppings": [
+            {
+                "height": 86.0, 
+                "width": 271.0, 
+                "x": 135.0, 
+                "y": 247.0
+            }, 
+            {
+                "height": 135.0, 
+                "width": 429.0, 
+                "x": 71.0, 
+                "y": 91.0
+            }, 
+            {
+                "height": 50.0, 
+                "width": 131.0, 
+                "x": 22.0, 
+                "y": 188.0
+            }, 
+            {
+                "height": 48.0, 
+                "width": 83.0, 
+                "x": 417.0, 
+                "y": 99.0
+            }, 
+            {
+                "height": 70.0, 
+                "width": 113.0, 
+                "x": 387.0, 
+                "y": 26.0
+            }, 
+            {
+                "height": 78.0, 
+                "width": 130.0, 
+                "x": 330.0, 
+                "y": 214.0
+            }
+        ], 
+        "cur_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0
+        ], 
+        "model_ids": [
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805", 
+            "AlexNet_fc8_05_12_2017_130805"
+        ], 
+        "user_cluster_ids": [
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0, 
+            -1.0
+        ]
+    }
+}
